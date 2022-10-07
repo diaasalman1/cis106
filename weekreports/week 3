@@ -1,0 +1,22 @@
+3aa. "Exploring Desktop Environments" Talks about a bunch of different desktops
+3aaa. Gnome,kde,xfce,Cinnamons,lxqt Deeping, pantheon, rasberry Pi OS, mate
+3b. GUI- "a set of programs that allows a user to interact with the computer system via icons,"
+DE- "an implementation of the desktop metaphor"
+3c. windows,menus, wallpapers, panels
+
+"The bash shell"
+talks about the bash shell, terminals, bash shortcuts
+a. shell- "The GNU bash shell is a program that provides interactive access to the Linux system"
+b. different shells- "Tcsh Shell,Csh Shell,Ksh Shell, Zsh Shell, Fish Shell"
+c. bash shortcuts- "Ctrl + A, Ctrl + E, Ctrl + K, Ctrl + U, Ctrl + W"
+d. basic commands and their usage- "date displays the current time and date, clear clears the screen,cal displays a calender of the current month
+
+"Managing Software"
+talks about how to manage software and "basic terminology"
+a- command to update ubuntu- apt update
+b- command to installing software- apt install
+c- command to removing software- apt remove
+d- command to search for software- apt search
+e- package - "archives that contain binaries of software, configuration files, and information about dependencies."
+library- "reusable code that can be used by more than one function or program.
+repository- "a large collection of software available for download."
