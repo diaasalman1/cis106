@@ -1,0 +1,49 @@
+...
+Name: Diaa Salman
+Semester: Fall 22
+...
+
+# Week 4
+
+## Practice questions
+
+## Practice 1
+![practice1](practice1.png)
+## Practice 2
+![practice2](practice2.png)
+## Practice 3
+![practice3](practice3.png)
+
+## Filesystem
+| Directory | Data stored in directory                    |
+| --------- | ------------------------------------------- |
+| bin       | essential commands                          |
+| dev       | device files                                |
+| etc       | system configuration files                  |
+| home      | user home directories                       |
+| media     | mount point for removable media             |
+| opt       | add-on software packages                    |
+| proc      | Kernal information                          |
+| srv       | information relating to services            |
+| usr       | software not essential for system operation |
+| var       | dedicated to variable data                  |
+
+##  commands to navigate the filesystems
+
+| command | what it does                     | syntax | example |
+| ------- | -------------------------------- | ------ | ------- |
+| pwd     | prints current working directory | `pwd`  | `pwd`   |
+| cd      | get around directories           | `cd`   | `cd`    |
+| ls      | shows files                      | `ls`   | `ls`    |
+
+## key terms
+* Definitions
+
+* File system- the way files are stored and organized to simplify access to data.
+* Current directory- the directory where you are at the moment.
+* parent directory- you are always working inside a particular directory and you can move forward to a subdirectory or backwards to the previous directory.
+* the difference between your home directory and the home directory- user home directories is home directory probably. Your home directory is your own directory probably.
+* pathname- indicates the location of the file in the filesystem.
+* relative path- location of a file starting from the current working directory.
+* absolute path- location of a file starting a the root of the file system.
+* The commands are used for navagating the filesystems- pwd, cd, ls.
