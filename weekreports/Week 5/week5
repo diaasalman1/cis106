@@ -1,0 +1,23 @@
+...
+Name: Diaa Salman
+Semester: Fall 22
+...
+
+# Week 5
+
+## Questions
+
+* What are Command Options? it changes the action of a command.
+* What are Command Arguments? more commands that change the programs use.
+* Which command is used for creating directories? Provide at least 3 examples. -mkdir and 3 examples are `mkdir wallpapers` `mkdir wallpapers/ocean` `mkdir ~/wallpapers/forest`
+* What does the touch command do? Provide at least 3 examples.- touch is used for creating files and 3 examples are `touch list` `touch "list of foods.txt"` `touch ~/Downloads/games.txt`
+* How do you remove a file? Provide an example. rm removes files and an example is `rm list`
+* How do you remove a directory and can you remove non-empty directories in Linux? Provide an example- remove empty directory- `rmdir` remove non-empty directories- `rm -r`
+* Explain the mv and cp command. Provide at least 2 examples of each- mv moves and renames directories. `mv + source + destination` `mv + file/directory to rename + new name` cp- copies files/directories from a source to a destination. `cp + files to copy + destination` `cp -r + directory to copy + destination`
+
+## Practice questions
+
+![p1](p1.png)
+![p2](p2.png)
+![q3](q3.png)
+![p4](p4.png)
