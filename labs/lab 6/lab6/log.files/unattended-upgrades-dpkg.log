@@ -1,0 +1,387 @@
+Log started: 2022-10-22  12:27:32
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 224714 files and directories currently installed.)
+Preparing to unpack .../libuno-sal3_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking libuno-sal3 (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Setting up libuno-sal3 (1:7.3.6-0ubuntu0.22.04.2) ...
+Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
+Processing triggers for libreoffice-common (1:7.3.6-0ubuntu0.22.04.1) ...
+Log ended: 2022-10-22  12:28:00
+
+Log started: 2022-10-22  12:28:03
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 224714 files and directories currently installed.)
+Preparing to unpack .../libuno-cppu3_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking libuno-cppu3 (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Setting up libuno-cppu3 (1:7.3.6-0ubuntu0.22.04.2) ...
+Processing triggers for libreoffice-common (1:7.3.6-0ubuntu0.22.04.1) ...
+Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
+Log ended: 2022-10-22  12:28:22
+
+Log started: 2022-10-22  12:28:24
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 224714 files and directories currently installed.)
+Preparing to unpack .../libreoffice-style-colibre_1%3a7.3.6-0ubuntu0.22.04.2_all.deb ...
+Unpacking libreoffice-style-colibre (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Setting up libreoffice-style-colibre (1:7.3.6-0ubuntu0.22.04.2) ...
+Processing triggers for libreoffice-common (1:7.3.6-0ubuntu0.22.04.1) ...
+Log ended: 2022-10-22  12:28:47
+
+Log started: 2022-10-22  12:28:52
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 224714 files and directories currently installed.)
+Preparing to unpack .../0-libreoffice-calc_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking libreoffice-calc (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Preparing to unpack .../1-libreoffice-gnome_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking libreoffice-gnome (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Preparing to unpack .../2-libreoffice-gtk3_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking libreoffice-gtk3 (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Preparing to unpack .../3-libreoffice-writer_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking libreoffice-writer (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Preparing to unpack .../4-python3-uno_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking python3-uno (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Preparing to unpack .../5-libreoffice-math_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking libreoffice-math (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Preparing to unpack .../6-libreoffice-base-core_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking libreoffice-base-core (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Preparing to unpack .../7-libreoffice-draw_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking libreoffice-draw (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Preparing to unpack .../8-libreoffice-impress_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking libreoffice-impress (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Preparing to unpack .../9-libreoffice-core_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking libreoffice-core (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Setting up libreoffice-core (1:7.3.6-0ubuntu0.22.04.2) ...
+Setting up libreoffice-math (1:7.3.6-0ubuntu0.22.04.2) ...
+Setting up libreoffice-gtk3 (1:7.3.6-0ubuntu0.22.04.2) ...
+Setting up libreoffice-draw (1:7.3.6-0ubuntu0.22.04.2) ...
+Setting up libreoffice-gnome (1:7.3.6-0ubuntu0.22.04.2) ...
+Setting up libreoffice-impress (1:7.3.6-0ubuntu0.22.04.2) ...
+Setting up libreoffice-base-core (1:7.3.6-0ubuntu0.22.04.2) ...
+Setting up python3-uno (1:7.3.6-0ubuntu0.22.04.2) ...
+Setting up libreoffice-calc (1:7.3.6-0ubuntu0.22.04.2) ...
+Setting up libreoffice-writer (1:7.3.6-0ubuntu0.22.04.2) ...
+Processing triggers for man-db (2.10.2-1) ...
+Processing triggers for libreoffice-common (1:7.3.6-0ubuntu0.22.04.1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for bamfdaemon (0.5.6+22.04.20220217-0ubuntu1) ...
+Rebuilding /usr/share/applications/bamf-2.index...
+Processing triggers for desktop-file-utils (0.26-1ubuntu3) ...
+Processing triggers for gnome-menus (3.36.0-1ubuntu3) ...
+Log ended: 2022-10-22  12:30:13
+
+Log started: 2022-10-22  12:30:16
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 224714 files and directories currently installed.)
+Preparing to unpack .../zlib1g-dev_1%3a1.2.11.dfsg-2ubuntu9.2_amd64.deb ...
+Unpacking zlib1g-dev:amd64 (1:1.2.11.dfsg-2ubuntu9.2) over (1:1.2.11.dfsg-2ubuntu9.1) ...
+Preparing to unpack .../zlib1g_1%3a1.2.11.dfsg-2ubuntu9.2_amd64.deb ...
+Unpacking zlib1g:amd64 (1:1.2.11.dfsg-2ubuntu9.2) over (1:1.2.11.dfsg-2ubuntu9.1) ...
+Setting up zlib1g:amd64 (1:1.2.11.dfsg-2ubuntu9.2) ...
+Setting up zlib1g-dev:amd64 (1:1.2.11.dfsg-2ubuntu9.2) ...
+Processing triggers for man-db (2.10.2-1) ...
+Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
+Log ended: 2022-10-22  15:30:53
+
+Log started: 2022-10-22  15:30:56
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 224714 files and directories currently installed.)
+Preparing to unpack .../ure_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking ure (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Preparing to unpack .../libuno-cppuhelpergcc3-3_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking libuno-cppuhelpergcc3-3 (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Preparing to unpack .../uno-libs-private_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking uno-libs-private (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Setting up uno-libs-private (1:7.3.6-0ubuntu0.22.04.2) ...
+Setting up libuno-cppuhelpergcc3-3 (1:7.3.6-0ubuntu0.22.04.2) ...
+Setting up ure (1:7.3.6-0ubuntu0.22.04.2) ...
+Processing triggers for libreoffice-common (1:7.3.6-0ubuntu0.22.04.1) ...
+Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
+Log ended: 2022-10-22  15:31:10
+
+Log started: 2022-10-22  15:31:13
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 224714 files and directories currently installed.)
+Preparing to unpack .../libreoffice-style-breeze_1%3a7.3.6-0ubuntu0.22.04.2_all.deb ...
+Unpacking libreoffice-style-breeze (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Setting up libreoffice-style-breeze (1:7.3.6-0ubuntu0.22.04.2) ...
+Processing triggers for libreoffice-common (1:7.3.6-0ubuntu0.22.04.1) ...
+Log ended: 2022-10-22  15:31:34
+
+Log started: 2022-10-22  15:31:49
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 224714 files and directories currently installed.)
+Preparing to unpack .../thunderbird-locale-en_1%3a102.2.2+build1-0ubuntu0.22.04.1_amd64.deb ...
+Unpacking thunderbird-locale-en (1:102.2.2+build1-0ubuntu0.22.04.1) over (1:91.11.0+build2-0ubuntu0.22.04.1) ...
+Preparing to unpack .../thunderbird_1%3a102.2.2+build1-0ubuntu0.22.04.1_amd64.deb ...
+Unpacking thunderbird (1:102.2.2+build1-0ubuntu0.22.04.1) over (1:91.11.0+build2-0ubuntu0.22.04.1) ...
+Preparing to unpack .../thunderbird-gnome-support_1%3a102.2.2+build1-0ubuntu0.22.04.1_amd64.deb ...
+Unpacking thunderbird-gnome-support (1:102.2.2+build1-0ubuntu0.22.04.1) over (1:91.11.0+build2-0ubuntu0.22.04.1) ...
+Setting up thunderbird (1:102.2.2+build1-0ubuntu0.22.04.1) ...
+Setting up thunderbird-locale-en (1:102.2.2+build1-0ubuntu0.22.04.1) ...
+Setting up thunderbird-gnome-support (1:102.2.2+build1-0ubuntu0.22.04.1) ...
+Processing triggers for bamfdaemon (0.5.6+22.04.20220217-0ubuntu1) ...
+Rebuilding /usr/share/applications/bamf-2.index...
+Processing triggers for desktop-file-utils (0.26-1ubuntu3) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for gnome-menus (3.36.0-1ubuntu3) ...
+Processing triggers for man-db (2.10.2-1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Log ended: 2022-10-22  15:32:32
+
+Log started: 2022-10-22  15:32:36
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 224711 files and directories currently installed.)
+Preparing to unpack .../git_1%3a2.34.1-1ubuntu1.5_amd64.deb ...
+Unpacking git (1:2.34.1-1ubuntu1.5) over (1:2.34.1-1ubuntu1.4) ...
+Setting up git (1:2.34.1-1ubuntu1.5) ...
+Log ended: 2022-10-22  15:32:58
+
+Log started: 2022-10-22  15:33:03
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 224711 files and directories currently installed.)
+Preparing to unpack .../libreoffice-pdfimport_1%3a7.3.6-0ubuntu0.22.04.2_all.deb ...
+Unpacking libreoffice-pdfimport (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Setting up libreoffice-pdfimport (1:7.3.6-0ubuntu0.22.04.2) ...
+Log ended: 2022-10-22  15:33:23
+
+Log started: 2022-10-22  15:33:25
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 224711 files and directories currently installed.)
+Preparing to unpack .../fonts-opensymbol_2%3a102.12+LibO7.3.6-0ubuntu0.22.04.2_all.deb ...
+Unpacking fonts-opensymbol (2:102.12+LibO7.3.6-0ubuntu0.22.04.2) over (2:102.12+LibO7.3.6-0ubuntu0.22.04.1) ...
+Setting up fonts-opensymbol (2:102.12+LibO7.3.6-0ubuntu0.22.04.2) ...
+Processing triggers for fontconfig (2.13.1-4.2ubuntu5) ...
+Log ended: 2022-10-22  15:33:45
+
+Log started: 2022-10-22  15:33:49
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 224711 files and directories currently installed.)
+Preparing to unpack .../unzip_6.0-26ubuntu3.1_amd64.deb ...
+Unpacking unzip (6.0-26ubuntu3.1) over (6.0-26ubuntu3) ...
+Setting up unzip (6.0-26ubuntu3.1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for man-db (2.10.2-1) ...
+Log ended: 2022-10-22  15:34:20
+
+Log started: 2022-10-22  15:34:24
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 224711 files and directories currently installed.)
+Preparing to unpack .../libreoffice-ogltrans_1%3a7.3.6-0ubuntu0.22.04.2_all.deb ...
+Unpacking libreoffice-ogltrans (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Setting up libreoffice-ogltrans (1:7.3.6-0ubuntu0.22.04.2) ...
+Log ended: 2022-10-22  15:34:45
+
+Log started: 2022-10-22  15:34:47
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 224711 files and directories currently installed.)
+Preparing to unpack .../libreoffice-help-en-us_1%3a7.3.6-0ubuntu0.22.04.2_all.deb ...
+Unpacking libreoffice-help-en-us (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Preparing to unpack .../libreoffice-help-common_1%3a7.3.6-0ubuntu0.22.04.2_all.deb ...
+Unpacking libreoffice-help-common (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Setting up libreoffice-help-common (1:7.3.6-0ubuntu0.22.04.2) ...
+Setting up libreoffice-help-en-us (1:7.3.6-0ubuntu0.22.04.2) ...
+Log ended: 2022-10-22  15:35:51
+
+Log started: 2022-10-22  15:35:57
+Selecting previously unselected package linux-modules-5.15.0-52-generic.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 224711 files and directories currently installed.)
+Preparing to unpack .../0-linux-modules-5.15.0-52-generic_5.15.0-52.58_amd64.deb ...
+Unpacking linux-modules-5.15.0-52-generic (5.15.0-52.58) ...
+Selecting previously unselected package linux-image-5.15.0-52-generic.
+Preparing to unpack .../1-linux-image-5.15.0-52-generic_5.15.0-52.58_amd64.deb ...
+Unpacking linux-image-5.15.0-52-generic (5.15.0-52.58) ...
+Selecting previously unselected package linux-modules-extra-5.15.0-52-generic.
+Preparing to unpack .../2-linux-modules-extra-5.15.0-52-generic_5.15.0-52.58_amd64.deb ...
+Unpacking linux-modules-extra-5.15.0-52-generic (5.15.0-52.58) ...
+Preparing to unpack .../3-linux-generic-hwe-22.04_5.15.0.52.52_amd64.deb ...
+Unpacking linux-generic-hwe-22.04 (5.15.0.52.52) over (5.15.0.48.48) ...
+Preparing to unpack .../4-linux-image-generic-hwe-22.04_5.15.0.52.52_amd64.deb ...
+Unpacking linux-image-generic-hwe-22.04 (5.15.0.52.52) over (5.15.0.48.48) ...
+Selecting previously unselected package linux-headers-5.15.0-52.
+Preparing to unpack .../5-linux-headers-5.15.0-52_5.15.0-52.58_all.deb ...
+Unpacking linux-headers-5.15.0-52 (5.15.0-52.58) ...
+Selecting previously unselected package linux-headers-5.15.0-52-generic.
+Preparing to unpack .../6-linux-headers-5.15.0-52-generic_5.15.0-52.58_amd64.deb ...
+Unpacking linux-headers-5.15.0-52-generic (5.15.0-52.58) ...
+Preparing to unpack .../7-linux-headers-generic-hwe-22.04_5.15.0.52.52_amd64.deb ...
+Unpacking linux-headers-generic-hwe-22.04 (5.15.0.52.52) over (5.15.0.48.48) ...
+Setting up linux-headers-5.15.0-52 (5.15.0-52.58) ...
+Setting up linux-headers-5.15.0-52-generic (5.15.0-52.58) ...
+Setting up linux-headers-generic-hwe-22.04 (5.15.0.52.52) ...
+Setting up linux-image-5.15.0-52-generic (5.15.0-52.58) ...
+I: /boot/vmlinuz.old is now a symlink to vmlinuz-5.15.0-48-generic
+I: /boot/initrd.img.old is now a symlink to initrd.img-5.15.0-48-generic
+I: /boot/vmlinuz is now a symlink to vmlinuz-5.15.0-52-generic
+I: /boot/initrd.img is now a symlink to initrd.img-5.15.0-52-generic
+Setting up linux-modules-5.15.0-52-generic (5.15.0-52.58) ...
+Setting up linux-modules-extra-5.15.0-52-generic (5.15.0-52.58) ...
+Setting up linux-image-generic-hwe-22.04 (5.15.0.52.52) ...
+Setting up linux-generic-hwe-22.04 (5.15.0.52.52) ...
+Processing triggers for linux-image-5.15.0-52-generic (5.15.0-52.58) ...
+/etc/kernel/postinst.d/initramfs-tools:
+update-initramfs: Generating /boot/initrd.img-5.15.0-52-generic
+/etc/kernel/postinst.d/vboxadd:
+VirtualBox Guest Additions: Building the modules for kernel 5.15.0-48-generic.
+
+VirtualBox Guest Additions: Look at /var/log/vboxadd-setup.log to find out what 
+went wrong
+VirtualBox Guest Additions: Building the modules for kernel 5.15.0-52-generic.
+
+VirtualBox Guest Additions: Look at /var/log/vboxadd-setup.log to find out what 
+went wrong
+/etc/kernel/postinst.d/zz-update-grub:
+Sourcing file `/etc/default/grub'
+Sourcing file `/etc/default/grub.d/init-select.cfg'
+Generating grub configuration file ...
+Found linux image: /boot/vmlinuz-5.15.0-52-generic
+Found initrd image: /boot/initrd.img-5.15.0-52-generic
+Found linux image: /boot/vmlinuz-5.15.0-48-generic
+Found initrd image: /boot/initrd.img-5.15.0-48-generic
+Found linux image: /boot/vmlinuz-5.15.0-43-generic
+Found initrd image: /boot/initrd.img-5.15.0-43-generic
+Found memtest86+ image: /boot/memtest86+.elf
+Found memtest86+ image: /boot/memtest86+.bin
+Warning: os-prober will not be executed to detect other bootable partitions.
+Systems on them will not be added to the GRUB boot configuration.
+Check GRUB_DISABLE_OS_PROBER documentation entry.
+done
+Log ended: 2022-10-22  15:42:16
+
+Log started: 2022-10-22  15:42:22
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 260198 files and directories currently installed.)
+Preparing to unpack .../perl-modules-5.34_5.34.0-3ubuntu1.1_all.deb ...
+Unpacking perl-modules-5.34 (5.34.0-3ubuntu1.1) over (5.34.0-3ubuntu1) ...
+Setting up perl-modules-5.34 (5.34.0-3ubuntu1.1) ...
+Log ended: 2022-10-22  15:42:56
+
+Log started: 2022-10-22  15:43:00
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 260198 files and directories currently installed.)
+Preparing to unpack .../libreoffice-style-elementary_1%3a7.3.6-0ubuntu0.22.04.2_all.deb ...
+Unpacking libreoffice-style-elementary (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Setting up libreoffice-style-elementary (1:7.3.6-0ubuntu0.22.04.2) ...
+Processing triggers for libreoffice-common (1:7.3.6-0ubuntu0.22.04.1) ...
+Log ended: 2022-10-22  15:43:24
+
+Log started: 2022-10-22  15:43:28
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 260198 files and directories currently installed.)
+Preparing to unpack .../git-man_1%3a2.34.1-1ubuntu1.5_all.deb ...
+Unpacking git-man (1:2.34.1-1ubuntu1.5) over (1:2.34.1-1ubuntu1.4) ...
+Setting up git-man (1:2.34.1-1ubuntu1.5) ...
+Processing triggers for man-db (2.10.2-1) ...
+Log ended: 2022-10-22  15:43:47
+
+Log started: 2022-10-22  15:43:53
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 260198 files and directories currently installed.)
+Preparing to unpack .../libreoffice-style-yaru_1%3a7.3.6-0ubuntu0.22.04.2_all.deb ...
+Unpacking libreoffice-style-yaru (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Setting up libreoffice-style-yaru (1:7.3.6-0ubuntu0.22.04.2) ...
+Processing triggers for libreoffice-common (1:7.3.6-0ubuntu0.22.04.1) ...
+Log ended: 2022-10-22  15:44:12
+
+Log started: 2022-10-22  15:44:15
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 260198 files and directories currently installed.)
+Preparing to unpack .../libreoffice-common_1%3a7.3.6-0ubuntu0.22.04.2_all.deb ...
+Unpacking libreoffice-common (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Setting up libreoffice-common (1:7.3.6-0ubuntu0.22.04.2) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for bamfdaemon (0.5.6+22.04.20220217-0ubuntu1) ...
+Rebuilding /usr/share/applications/bamf-2.index...
+Processing triggers for desktop-file-utils (0.26-1ubuntu3) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for gnome-menus (3.36.0-1ubuntu3) ...
+Processing triggers for man-db (2.10.2-1) ...
+Processing triggers for shared-mime-info (2.1-2) ...
+Log ended: 2022-10-22  15:46:33
+
+Log started: 2022-10-22  15:46:39
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 260198 files and directories currently installed.)
+Preparing to unpack .../isc-dhcp-client_4.4.1-2.3ubuntu2.3_amd64.deb ...
+Unpacking isc-dhcp-client (4.4.1-2.3ubuntu2.3) over (4.4.1-2.3ubuntu2.2) ...
+Setting up isc-dhcp-client (4.4.1-2.3ubuntu2.3) ...
+Processing triggers for man-db (2.10.2-1) ...
+Log ended: 2022-10-22  15:47:17
+
+Log started: 2022-10-22  15:47:20
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 260198 files and directories currently installed.)
+Preparing to unpack .../isc-dhcp-common_4.4.1-2.3ubuntu2.3_amd64.deb ...
+Unpacking isc-dhcp-common (4.4.1-2.3ubuntu2.3) over (4.4.1-2.3ubuntu2.2) ...
+Setting up isc-dhcp-common (4.4.1-2.3ubuntu2.3) ...
+Processing triggers for man-db (2.10.2-1) ...
+Log ended: 2022-10-22  15:47:47
+
+Log started: 2022-10-22  15:47:53
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 260198 files and directories currently installed.)
+Preparing to unpack .../perl-base_5.34.0-3ubuntu1.1_amd64.deb ...
+Unpacking perl-base (5.34.0-3ubuntu1.1) over (5.34.0-3ubuntu1) ...
+Setting up perl-base (5.34.0-3ubuntu1.1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 260198 files and directories currently installed.)
+Preparing to unpack .../perl_5.34.0-3ubuntu1.1_amd64.deb ...
+Unpacking perl (5.34.0-3ubuntu1.1) over (5.34.0-3ubuntu1) ...
+Preparing to unpack .../libperl5.34_5.34.0-3ubuntu1.1_amd64.deb ...
+Unpacking libperl5.34:amd64 (5.34.0-3ubuntu1.1) over (5.34.0-3ubuntu1) ...
+Setting up libperl5.34:amd64 (5.34.0-3ubuntu1.1) ...
+Setting up perl (5.34.0-3ubuntu1.1) ...
+Processing triggers for man-db (2.10.2-1) ...
+Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
+Log ended: 2022-10-22  15:48:32
+
+Log started: 2022-10-22  15:48:37
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 260198 files and directories currently installed.)
+Preparing to unpack .../libuno-salhelpergcc3-3_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking libuno-salhelpergcc3-3 (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Setting up libuno-salhelpergcc3-3 (1:7.3.6-0ubuntu0.22.04.2) ...
+Processing triggers for libreoffice-common (1:7.3.6-0ubuntu0.22.04.2) ...
+Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
+Log ended: 2022-10-22  15:48:58
+
+Log started: 2022-10-22  15:49:01
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 260198 files and directories currently installed.)
+Preparing to unpack .../thunderbird-locale-en-us_1%3a102.2.2+build1-0ubuntu0.22.04.1_all.deb ...
+Unpacking thunderbird-locale-en-us (1:102.2.2+build1-0ubuntu0.22.04.1) over (1:91.11.0+build2-0ubuntu0.22.04.1) ...
+Setting up thunderbird-locale-en-us (1:102.2.2+build1-0ubuntu0.22.04.1) ...
+Log ended: 2022-10-22  15:49:28
+
+Log started: 2022-10-22  15:49:31
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 260198 files and directories currently installed.)
+Preparing to unpack .../libuno-purpenvhelpergcc3-3_1%3a7.3.6-0ubuntu0.22.04.2_amd64.deb ...
+Unpacking libuno-purpenvhelpergcc3-3 (1:7.3.6-0ubuntu0.22.04.2) over (1:7.3.6-0ubuntu0.22.04.1) ...
+Setting up libuno-purpenvhelpergcc3-3 (1:7.3.6-0ubuntu0.22.04.2) ...
+Processing triggers for libreoffice-common (1:7.3.6-0ubuntu0.22.04.2) ...
+Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
+Log ended: 2022-10-22  15:49:51
+
+Log started: 2022-10-22  15:49:56
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 260198 files and directories currently installed.)
+Preparing to unpack .../linux-libc-dev_5.15.0-52.58_amd64.deb ...
+Unpacking linux-libc-dev:amd64 (5.15.0-52.58) over (5.15.0-48.54) ...
+Setting up linux-libc-dev:amd64 (5.15.0-52.58) ...
+Log ended: 2022-10-22  15:50:24
+
+Log started: 2022-10-22  15:50:28
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 260198 files and directories currently installed.)
+Preparing to unpack .../libksba8_1.6.0-2ubuntu0.1_amd64.deb ...
+Unpacking libksba8:amd64 (1.6.0-2ubuntu0.1) over (1.6.0-2build1) ...
+Setting up libksba8:amd64 (1.6.0-2ubuntu0.1) ...
+Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
+Log ended: 2022-10-22  15:50:50
+
+Log started: 2022-10-22  15:50:55
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 260198 files and directories currently installed.)
+Removing linux-modules-extra-5.15.0-43-generic (5.15.0-43.46) ...
+Removing linux-image-5.15.0-43-generic (5.15.0-43.46) ...
+/etc/kernel/postrm.d/initramfs-tools:
+update-initramfs: Deleting /boot/initrd.img-5.15.0-43-generic
+/etc/kernel/postrm.d/zz-update-grub:
+Sourcing file `/etc/default/grub'
+Sourcing file `/etc/default/grub.d/init-select.cfg'
+Generating grub configuration file ...
+Found linux image: /boot/vmlinuz-5.15.0-52-generic
+Found initrd image: /boot/initrd.img-5.15.0-52-generic
+Found linux image: /boot/vmlinuz-5.15.0-48-generic
+Found initrd image: /boot/initrd.img-5.15.0-48-generic
+Found memtest86+ image: /boot/memtest86+.elf
+Found memtest86+ image: /boot/memtest86+.bin
+Warning: os-prober will not be executed to detect other bootable partitions.
+Systems on them will not be added to the GRUB boot configuration.
+Check GRUB_DISABLE_OS_PROBER documentation entry.
+done
+Removing linux-modules-5.15.0-43-generic (5.15.0-43.46) ...
+Log ended: 2022-10-22  15:51:51
+
+Log started: 2022-10-22  15:51:56
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 252965 files and directories currently installed.)
+Removing linux-headers-5.15.0-43-generic (5.15.0-43.46) ...
+dpkg: warning: while removing linux-headers-5.15.0-43-generic, directory '/lib/modules/5.15.0-43-generic' not empty so not removed
+Log ended: 2022-10-22  15:52:22
+
+Log started: 2022-10-22  15:52:24
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 243435 files and directories currently installed.)
+Removing linux-headers-5.15.0-43 (5.15.0-43.46) ...
+Log ended: 2022-10-22  15:52:53
+

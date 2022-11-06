@@ -1,0 +1,19 @@
+2022-10-05 20:55:46,588 INFO Starting unattended upgrades script
+2022-10-05 20:55:46,590 INFO Allowed origins are: o=Ubuntu,a=jammy, o=Ubuntu,a=jammy-security, o=UbuntuESMApps,a=jammy-apps-security, o=UbuntuESM,a=jammy-infra-security
+2022-10-05 20:55:46,591 INFO Initial blacklist: 
+2022-10-05 20:55:46,592 INFO Initial whitelist (not strict): 
+2022-10-22 09:22:51,874 WARNING Could not figure out development release: Distribution data outdated. Please check for an update for distro-info-data. See /usr/share/doc/distro-info-data/README.Debian for details.
+2022-10-22 09:22:51,875 INFO Starting unattended upgrades script
+2022-10-22 09:22:51,877 INFO Allowed origins are: o=Ubuntu,a=jammy, o=Ubuntu,a=jammy-security, o=UbuntuESMApps,a=jammy-apps-security, o=UbuntuESM,a=jammy-infra-security
+2022-10-22 09:22:51,877 INFO Initial blacklist: 
+2022-10-22 09:22:51,878 INFO Initial whitelist (not strict): 
+2022-10-22 12:25:18,670 WARNING Could not figure out development release: Distribution data outdated. Please check for an update for distro-info-data. See /usr/share/doc/distro-info-data/README.Debian for details.
+2022-10-22 12:25:18,671 INFO Starting unattended upgrades script
+2022-10-22 12:25:18,673 INFO Allowed origins are: o=Ubuntu,a=jammy, o=Ubuntu,a=jammy-security, o=UbuntuESMApps,a=jammy-apps-security, o=UbuntuESM,a=jammy-infra-security
+2022-10-22 12:25:18,675 INFO Initial blacklist: 
+2022-10-22 12:25:18,676 INFO Initial whitelist (not strict): 
+2022-10-22 12:27:30,775 INFO Packages that will be upgraded: fonts-opensymbol git git-man isc-dhcp-client isc-dhcp-common libksba8 libperl5.34 libreoffice-base-core libreoffice-calc libreoffice-common libreoffice-core libreoffice-draw libreoffice-gnome libreoffice-gtk3 libreoffice-help-common libreoffice-help-en-us libreoffice-impress libreoffice-math libreoffice-ogltrans libreoffice-pdfimport libreoffice-style-breeze libreoffice-style-colibre libreoffice-style-elementary libreoffice-style-yaru libreoffice-writer libuno-cppu3 libuno-cppuhelpergcc3-3 libuno-purpenvhelpergcc3-3 libuno-sal3 libuno-salhelpergcc3-3 linux-generic-hwe-22.04 linux-headers-generic-hwe-22.04 linux-image-generic-hwe-22.04 linux-libc-dev perl perl-base perl-modules-5.34 python3-uno thunderbird thunderbird-gnome-support thunderbird-locale-en thunderbird-locale-en-us uno-libs-private unzip ure zlib1g zlib1g-dev
+2022-10-22 12:27:30,778 INFO Writing dpkg log to /var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+2022-10-22 15:50:52,444 INFO All upgrades installed
+2022-10-22 15:52:55,603 INFO Packages that were successfully auto-removed: linux-headers-5.15.0-43 linux-headers-5.15.0-43-generic linux-image-5.15.0-43-generic linux-modules-5.15.0-43-generic linux-modules-extra-5.15.0-43-generic
+2022-10-22 15:52:55,614 INFO Packages that are kept back: 

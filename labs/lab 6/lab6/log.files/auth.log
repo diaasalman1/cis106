@@ -1,0 +1,80 @@
+Oct 22 00:17:01 cis106vm CRON[16155]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 00:17:01 cis106vm CRON[16155]: pam_unix(cron:session): session closed for user root
+Oct 22 01:17:02 cis106vm CRON[16806]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 01:17:02 cis106vm CRON[16806]: pam_unix(cron:session): session closed for user root
+Oct 22 02:17:01 cis106vm CRON[18018]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 02:17:01 cis106vm CRON[18018]: pam_unix(cron:session): session closed for user root
+Oct 22 03:10:01 cis106vm CRON[18911]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 03:10:01 cis106vm CRON[18911]: pam_unix(cron:session): session closed for user root
+Oct 22 03:17:01 cis106vm CRON[18943]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 03:17:01 cis106vm CRON[18943]: pam_unix(cron:session): session closed for user root
+Oct 22 12:28:04 cis106vm pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Oct 22 12:28:04 cis106vm pkexec[19341]: djsalman: Executing command [USER=root] [TTY=unknown] [CWD=/home/djsalman] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Oct 22 12:30:01 cis106vm CRON[20776]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 12:30:02 cis106vm CRON[20776]: pam_unix(cron:session): session closed for user root
+Oct 22 15:31:11 cis106vm pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Oct 22 15:31:11 cis106vm pkexec[21136]: djsalman: Executing command [USER=root] [TTY=unknown] [CWD=/home/djsalman] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Oct 22 15:31:19 cis106vm PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct 22 15:31:19 cis106vm PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct 22 15:31:32 cis106vm PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct 22 15:31:32 cis106vm PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct 22 15:34:44 cis106vm pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Oct 22 15:34:44 cis106vm pkexec[22522]: djsalman: Executing command [USER=root] [TTY=unknown] [CWD=/home/djsalman] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Oct 22 15:37:30 cis106vm pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Oct 22 15:37:32 cis106vm pkexec[22947]: djsalman: Executing command [USER=root] [TTY=unknown] [CWD=/home/djsalman] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Oct 22 15:41:46 cis106vm useradd[29715]: failed adding user 'vboxadd', data deleted
+Oct 22 15:41:46 cis106vm useradd[29716]: failed adding user 'vboxadd', data deleted
+Oct 22 15:43:21 cis106vm pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Oct 22 15:43:22 cis106vm pkexec[30928]: djsalman: Executing command [USER=root] [TTY=unknown] [CWD=/home/djsalman] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Oct 22 15:46:26 cis106vm pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Oct 22 15:46:27 cis106vm pkexec[31964]: djsalman: Executing command [USER=root] [TTY=unknown] [CWD=/home/djsalman] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Oct 22 15:49:35 cis106vm pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Oct 22 15:49:35 cis106vm pkexec[32749]: djsalman: Executing command [USER=root] [TTY=unknown] [CWD=/home/djsalman] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Oct 22 15:52:15 cis106vm pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Oct 22 15:52:15 cis106vm pkexec[34067]: djsalman: Executing command [USER=root] [TTY=unknown] [CWD=/home/djsalman] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Oct 22 15:55:16 cis106vm pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Oct 22 15:55:16 cis106vm pkexec[34876]: djsalman: Executing command [USER=root] [TTY=unknown] [CWD=/home/djsalman] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Oct 22 16:17:02 cis106vm CRON[36139]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 16:17:02 cis106vm CRON[36139]: pam_unix(cron:session): session closed for user root
+Oct 22 16:30:01 cis106vm CRON[36271]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 16:30:01 cis106vm CRON[36271]: pam_unix(cron:session): session closed for user root
+Oct 22 18:54:56 cis106vm CRON[36306]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 18:54:56 cis106vm CRON[36306]: pam_unix(cron:session): session closed for user root
+Oct 22 18:54:56 cis106vm CRON[36308]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 18:54:56 cis106vm CRON[36308]: pam_unix(cron:session): session closed for user root
+Oct 22 19:17:01 cis106vm CRON[36663]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 19:17:01 cis106vm CRON[36663]: pam_unix(cron:session): session closed for user root
+Oct 22 19:47:57 cis106vm CRON[36790]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 19:47:57 cis106vm CRON[36790]: pam_unix(cron:session): session closed for user root
+Oct 22 20:17:01 cis106vm CRON[36992]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 20:17:01 cis106vm CRON[36992]: pam_unix(cron:session): session closed for user root
+Oct 22 20:30:02 cis106vm CRON[37425]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 20:30:02 cis106vm CRON[37425]: pam_unix(cron:session): session closed for user root
+Oct 22 21:17:01 cis106vm CRON[39657]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 21:17:01 cis106vm CRON[39657]: pam_unix(cron:session): session closed for user root
+Oct 22 21:30:01 cis106vm CRON[40177]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 21:30:01 cis106vm CRON[40177]: pam_unix(cron:session): session closed for user root
+Oct 22 22:17:01 cis106vm CRON[40614]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 22:17:01 cis106vm CRON[40614]: pam_unix(cron:session): session closed for user root
+Oct 22 22:30:01 cis106vm CRON[40925]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 22:30:01 cis106vm CRON[40925]: pam_unix(cron:session): session closed for user root
+Oct 22 23:17:01 cis106vm CRON[41732]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 23:17:01 cis106vm CRON[41732]: pam_unix(cron:session): session closed for user root
+Oct 22 23:30:01 cis106vm CRON[42155]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 22 23:30:01 cis106vm CRON[42155]: pam_unix(cron:session): session closed for user root
+Oct 23 06:17:01 cis106vm CRON[43121]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 23 06:17:01 cis106vm CRON[43121]: pam_unix(cron:session): session closed for user root
+Oct 23 06:25:01 cis106vm CRON[43154]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 23 06:25:01 cis106vm CRON[43154]: pam_unix(cron:session): session closed for user root
+Nov  5 17:32:15 cis106vm PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Nov  5 17:32:15 cis106vm PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Nov  5 17:33:34 cis106vm pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Nov  5 17:33:34 cis106vm pkexec[43923]: djsalman: Executing command [USER=root] [TTY=unknown] [CWD=/home/djsalman] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Nov  5 18:17:01 cis106vm CRON[45056]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  5 18:17:01 cis106vm CRON[45056]: pam_unix(cron:session): session closed for user root
+Nov  5 18:30:01 cis106vm CRON[45179]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  5 18:30:01 cis106vm CRON[45179]: pam_unix(cron:session): session closed for user root
+Nov  5 19:17:01 cis106vm CRON[45808]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  5 19:17:01 cis106vm CRON[45808]: pam_unix(cron:session): session closed for user root
+Nov  5 19:30:01 cis106vm CRON[46420]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov  5 19:30:01 cis106vm CRON[46420]: pam_unix(cron:session): session closed for user root

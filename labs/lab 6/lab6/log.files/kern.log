@@ -1,0 +1,610 @@
+Oct 22 01:17:30 cis106vm kernel: [42968.750393] audit: type=1107 audit(1666415850.209:159): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.264" pid=5599 label="snap.firefox.firefox" peer_pid=16834 peer_label="unconfined"
+Oct 22 01:17:30 cis106vm kernel: [42968.750393]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 01:17:30 cis106vm kernel: [42968.750444] audit: type=1420 audit(1666415850.209:160): subj_apparmor=unconfined
+Oct 22 01:19:26 cis106vm kernel: [43085.281194] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 01:19:26 cis106vm kernel: [43085.281422] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 01:19:37 cis106vm kernel: [43096.478975] audit: type=1107 audit(1666415977.881:161): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.266" pid=5599 label="snap.firefox.firefox" peer_pid=16923 peer_label="unconfined"
+Oct 22 01:19:37 cis106vm kernel: [43096.478975]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 01:19:37 cis106vm kernel: [43096.479011] audit: type=1420 audit(1666415977.881:162): subj_apparmor=unconfined
+Oct 22 01:34:30 cis106vm kernel: [43989.072659] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 01:34:30 cis106vm kernel: [43989.072843] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 01:35:01 cis106vm kernel: [44020.123838] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 01:35:01 cis106vm kernel: [44020.124080] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 01:35:12 cis106vm kernel: [44031.796390] audit: type=1107 audit(1666416912.730:163): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.269" pid=5599 label="snap.firefox.firefox" peer_pid=17185 peer_label="unconfined"
+Oct 22 01:35:12 cis106vm kernel: [44031.796390]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 01:35:12 cis106vm kernel: [44031.796423] audit: type=1420 audit(1666416912.730:164): subj_apparmor=unconfined
+Oct 22 01:43:14 cis106vm kernel: [44514.024885] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 01:43:14 cis106vm kernel: [44514.025083] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 01:43:23 cis106vm kernel: [44522.658757] audit: type=1107 audit(1666417403.568:165): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.272" pid=5599 label="snap.firefox.firefox" peer_pid=17520 peer_label="unconfined"
+Oct 22 01:43:23 cis106vm kernel: [44522.658757]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 01:43:23 cis106vm kernel: [44522.658797] audit: type=1420 audit(1666417403.568:166): subj_apparmor=unconfined
+Oct 22 02:23:54 cis106vm kernel: [46953.164243] usb 1-1: USB disconnect, device number 3
+Oct 22 02:23:54 cis106vm kernel: [46953.629595] 06:23:54.535563 control  Session 0 is about to close ...
+Oct 22 02:23:54 cis106vm kernel: [46953.641238] 06:23:54.552705 control  Stopping all guest processes ...
+Oct 22 02:23:54 cis106vm kernel: [46953.644236] 06:23:54.556735 control  Closing all guest files ...
+Oct 22 02:23:54 cis106vm kernel: [46954.039037] usb 1-1: new full-speed USB device number 4 using ohci-pci
+Oct 22 02:23:55 cis106vm kernel: [46954.395357] usb 1-1: New USB device found, idVendor=80ee, idProduct=0021, bcdDevice= 1.00
+Oct 22 02:23:55 cis106vm kernel: [46954.395371] usb 1-1: New USB device strings: Mfr=1, Product=3, SerialNumber=0
+Oct 22 02:23:55 cis106vm kernel: [46954.395379] usb 1-1: Product: USB Tablet
+Oct 22 02:23:55 cis106vm kernel: [46954.395385] usb 1-1: Manufacturer: VirtualBox
+Oct 22 02:23:55 cis106vm kernel: [46954.406050] usb 1-1: can't set config #1, error -32
+Oct 22 02:23:55 cis106vm kernel: [46954.491559] e1000: enp0s3 NIC Link is Down
+Oct 22 02:23:55 cis106vm kernel: [46954.537617] e1000 0000:00:03.0 enp0s3: Reset adapter
+Oct 22 02:23:57 cis106vm kernel: [46956.674188] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Oct 22 06:20:41 cis106vm kernel: [50093.017494] 10:20:31.246127 timesync vgsvcTimeSyncWorker: Radical host time change: 10 827 056 000 000ns (HostNow=1 666 434 031 246 000 000
+Oct 22 09:22:47 cis106vm kernel: [50103.021499] 10:20:41.251431 timesync vgsvcTimeSyncWorker: Radical guest time change: 10 827 059 058 000ns (GuestNow=1 666 434 041 251 412 0
+Oct 22 09:22:57 cis106vm kernel: [50223.037991] 13:22:47.180144 timesync vgsvcTimeSyncWorker: Radical host time change: 10 815 915 000 000ns (HostNow=1 666 444 967 180 000 000
+Oct 22 12:25:15 cis106vm kernel: [50233.044261] 13:22:57.186326 timesync vgsvcTimeSyncWorker: Radical guest time change: 10 815 918 773 000ns (GuestNow=1 666 444 977 186 305 0
+Oct 22 12:25:25 cis106vm kernel: [50363.059587] 16:25:15.253187 timesync vgsvcTimeSyncWorker: Radical host time change: 10 818 055 000 000ns (HostNow=1 666 455 915 253 000 000
+Oct 22 15:30:44 cis106vm kernel: [50373.102949] 16:25:25.291969 timesync vgsvcTimeSyncWorker: Radical guest time change: 10 818 094 612 000ns (GuestNow=1 666 455 925 291 950 0
+Oct 22 15:30:54 cis106vm kernel: [50683.160060] 19:30:44.269491 timesync vgsvcTimeSyncWorker: Radical host time change: 10 818 927 000 000ns (HostNow=1 666 467 044 269 000 000
+Oct 22 15:32:43 cis106vm kernel: [50693.165589] 19:30:54.274788 timesync vgsvcTimeSyncWorker: Radical guest time change: 10 818 917 137 000ns (GuestNow=1 666 467 054 274 768 0
+Oct 22 15:32:43 cis106vm kernel: [50802.649210] audit: type=1326 audit(1666467163.757:167): auid=1000 uid=1000 gid=1000 ses=3 subj=? pid=2704 comm="pool-org.gnome." exe="/snap/snap-store/599/usr/bin/snap-store" sig=0 arch=c000003e syscall=93 compat=0 ip=0x7f5736ccf39b code=0x50000
+Oct 22 15:44:48 cis106vm kernel: [51527.111862] audit: type=1400 audit(1666467888.572:168): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-oosplash" pid=31829 comm="apparmor_parser"
+Oct 22 15:44:48 cis106vm kernel: [51527.531567] audit: type=1400 audit(1666467888.992:169): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-senddoc" pid=31832 comm="apparmor_parser"
+Oct 22 15:45:59 cis106vm kernel: [51597.886090] audit: type=1400 audit(1666467959.380:170): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="libreoffice-soffice" pid=31839 comm="apparmor_parser"
+Oct 22 15:45:59 cis106vm kernel: [51597.917035] audit: type=1400 audit(1666467959.412:171): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="libreoffice-soffice//gpg" pid=31839 comm="apparmor_parser"
+Oct 22 15:45:59 cis106vm kernel: [51598.416929] audit: type=1400 audit(1666467959.912:172): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-xpdfimport" pid=31849 comm="apparmor_parser"
+Oct 22 15:46:56 cis106vm kernel: [51654.553867] audit: type=1400 audit(1666468016.076:173): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=32057 comm="apparmor_parser"
+Oct 22 15:46:56 cis106vm kernel: [51654.587201] audit: type=1400 audit(1666468016.112:174): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=32057 comm="apparmor_parser"
+Oct 22 15:46:56 cis106vm kernel: [51654.613253] audit: type=1400 audit(1666468016.136:175): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=32057 comm="apparmor_parser"
+Oct 22 15:46:56 cis106vm kernel: [51654.651263] audit: type=1400 audit(1666468016.176:176): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/{,usr/}sbin/dhclient" pid=32057 comm="apparmor_parser"
+Oct 22 16:07:30 cis106vm kernel: [52888.459215] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 16:07:30 cis106vm kernel: [52888.459429] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 16:09:54 cis106vm kernel: [53032.188434] audit: type=1107 audit(1666469394.401:177): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.411" pid=5599 label="snap.firefox.firefox" peer_pid=35754 peer_label="unconfined"
+Oct 22 16:09:54 cis106vm kernel: [53032.188434]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:09:54 cis106vm kernel: [53032.188478] audit: type=1420 audit(1666469394.401:178): subj_apparmor=unconfined
+Oct 22 16:09:54 cis106vm kernel: [53032.196735] audit: type=1107 audit(1666469394.409:179): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.411" pid=5599 label="snap.firefox.firefox" peer_pid=35754 peer_label="unconfined"
+Oct 22 16:09:54 cis106vm kernel: [53032.196735]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:09:54 cis106vm kernel: [53032.196770] audit: type=1420 audit(1666469394.409:180): subj_apparmor=unconfined
+Oct 22 16:09:54 cis106vm kernel: [53032.209356] audit: type=1107 audit(1666469394.421:181): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.411" pid=5599 label="snap.firefox.firefox" peer_pid=35754 peer_label="unconfined"
+Oct 22 16:09:54 cis106vm kernel: [53032.209356]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:09:54 cis106vm kernel: [53032.209399] audit: type=1420 audit(1666469394.421:182): subj_apparmor=unconfined
+Oct 22 16:10:41 cis106vm kernel: [53079.743424] audit: type=1107 audit(1666469441.981:183): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.412" pid=5599 label="snap.firefox.firefox" peer_pid=35795 peer_label="unconfined"
+Oct 22 16:10:41 cis106vm kernel: [53079.743424]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:10:41 cis106vm kernel: [53079.743460] audit: type=1420 audit(1666469441.981:184): subj_apparmor=unconfined
+Oct 22 16:10:41 cis106vm kernel: [53079.743974] audit: type=1107 audit(1666469441.981:185): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.412" pid=5599 label="snap.firefox.firefox" peer_pid=35795 peer_label="unconfined"
+Oct 22 16:10:41 cis106vm kernel: [53079.743974]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:10:41 cis106vm kernel: [53079.744112] audit: type=1420 audit(1666469441.981:186): subj_apparmor=unconfined
+Oct 22 16:10:41 cis106vm kernel: [53079.747586] audit: type=1107 audit(1666469441.985:187): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.412" pid=5599 label="snap.firefox.firefox" peer_pid=35795 peer_label="unconfined"
+Oct 22 16:10:41 cis106vm kernel: [53079.747586]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:10:41 cis106vm kernel: [53079.747630] audit: type=1420 audit(1666469441.985:188): subj_apparmor=unconfined
+Oct 22 16:10:42 cis106vm kernel: [53079.764334] audit: type=1107 audit(1666469442.001:189): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.412" pid=5599 label="snap.firefox.firefox" peer_pid=35795 peer_label="unconfined"
+Oct 22 16:10:42 cis106vm kernel: [53079.764334]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:10:42 cis106vm kernel: [53079.764378] audit: type=1420 audit(1666469442.001:190): subj_apparmor=unconfined
+Oct 22 16:11:18 cis106vm kernel: [53116.559653] audit: type=1107 audit(1666469478.811:191): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.413" pid=5599 label="snap.firefox.firefox" peer_pid=35827 peer_label="unconfined"
+Oct 22 16:11:18 cis106vm kernel: [53116.559653]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:11:18 cis106vm kernel: [53116.559702] audit: type=1420 audit(1666469478.811:192): subj_apparmor=unconfined
+Oct 22 16:11:18 cis106vm kernel: [53116.603093] audit: type=1107 audit(1666469478.855:193): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.413" pid=5599 label="snap.firefox.firefox" peer_pid=35827 peer_label="unconfined"
+Oct 22 16:11:18 cis106vm kernel: [53116.603093]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:11:18 cis106vm kernel: [53116.603145] audit: type=1420 audit(1666469478.855:194): subj_apparmor=unconfined
+Oct 22 16:11:18 cis106vm kernel: [53116.609365] audit: type=1107 audit(1666469478.863:195): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.413" pid=5599 label="snap.firefox.firefox" peer_pid=35827 peer_label="unconfined"
+Oct 22 16:11:18 cis106vm kernel: [53116.609365]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:11:18 cis106vm kernel: [53116.609412] audit: type=1420 audit(1666469478.863:196): subj_apparmor=unconfined
+Oct 22 16:11:18 cis106vm kernel: [53116.614284] audit: type=1107 audit(1666469478.867:197): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.413" pid=5599 label="snap.firefox.firefox" peer_pid=35827 peer_label="unconfined"
+Oct 22 16:11:18 cis106vm kernel: [53116.614284]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:11:18 cis106vm kernel: [53116.614324] audit: type=1420 audit(1666469478.867:198): subj_apparmor=unconfined
+Oct 22 16:11:18 cis106vm kernel: [53116.625699] audit: type=1107 audit(1666469478.879:199): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.413" pid=5599 label="snap.firefox.firefox" peer_pid=35827 peer_label="unconfined"
+Oct 22 16:11:18 cis106vm kernel: [53116.625699]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:11:18 cis106vm kernel: [53116.625743] audit: type=1420 audit(1666469478.879:200): subj_apparmor=unconfined
+Oct 22 16:12:46 cis106vm kernel: [53204.158947] audit: type=1107 audit(1666469566.455:201): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.419" pid=5599 label="snap.firefox.firefox" peer_pid=36012 peer_label="unconfined"
+Oct 22 16:12:46 cis106vm kernel: [53204.158947]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:12:46 cis106vm kernel: [53204.158972] audit: type=1420 audit(1666469566.455:202): subj_apparmor=unconfined
+Oct 22 16:12:46 cis106vm kernel: [53204.159433] audit: type=1107 audit(1666469566.455:203): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.419" pid=5599 label="snap.firefox.firefox" peer_pid=36012 peer_label="unconfined"
+Oct 22 16:12:46 cis106vm kernel: [53204.159433]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:12:46 cis106vm kernel: [53204.159455] audit: type=1420 audit(1666469566.455:204): subj_apparmor=unconfined
+Oct 22 16:12:46 cis106vm kernel: [53204.160728] audit: type=1107 audit(1666469566.459:205): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.419" pid=5599 label="snap.firefox.firefox" peer_pid=36012 peer_label="unconfined"
+Oct 22 16:12:46 cis106vm kernel: [53204.160728]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:12:46 cis106vm kernel: [53204.160750] audit: type=1420 audit(1666469566.459:206): subj_apparmor=unconfined
+Oct 22 16:12:46 cis106vm kernel: [53204.162150] audit: type=1107 audit(1666469566.459:207): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.419" pid=5599 label="snap.firefox.firefox" peer_pid=36012 peer_label="unconfined"
+Oct 22 16:12:46 cis106vm kernel: [53204.162150]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:12:46 cis106vm kernel: [53204.162173] audit: type=1420 audit(1666469566.459:208): subj_apparmor=unconfined
+Oct 22 16:12:46 cis106vm kernel: [53204.163282] audit: type=1107 audit(1666469566.459:209): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.419" pid=5599 label="snap.firefox.firefox" peer_pid=36012 peer_label="unconfined"
+Oct 22 16:12:46 cis106vm kernel: [53204.163282]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:12:46 cis106vm kernel: [53204.163306] audit: type=1420 audit(1666469566.459:210): subj_apparmor=unconfined
+Oct 22 16:13:05 cis106vm kernel: [53222.858777] kauditd_printk_skb: 2 callbacks suppressed
+Oct 22 16:13:05 cis106vm kernel: [53222.858788] audit: type=1107 audit(1666469585.164:213): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.419" pid=5599 label="snap.firefox.firefox" peer_pid=36012 peer_label="unconfined"
+Oct 22 16:13:05 cis106vm kernel: [53222.858788]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:13:05 cis106vm kernel: [53222.858837] audit: type=1420 audit(1666469585.164:214): subj_apparmor=unconfined
+Oct 22 16:13:21 cis106vm kernel: [53238.689591] audit: type=1107 audit(1666469601.004:215): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.419" pid=5599 label="snap.firefox.firefox" peer_pid=36012 peer_label="unconfined"
+Oct 22 16:13:21 cis106vm kernel: [53238.689591]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:13:21 cis106vm kernel: [53238.689627] audit: type=1420 audit(1666469601.004:216): subj_apparmor=unconfined
+Oct 22 16:13:48 cis106vm kernel: [53266.336285] audit: type=1107 audit(1666469628.662:217): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.419" pid=5599 label="snap.firefox.firefox" peer_pid=36012 peer_label="unconfined"
+Oct 22 16:13:48 cis106vm kernel: [53266.336285]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:13:48 cis106vm kernel: [53266.336320] audit: type=1420 audit(1666469628.662:218): subj_apparmor=unconfined
+Oct 22 16:13:58 cis106vm kernel: [53276.442090] audit: type=1107 audit(1666469638.775:219): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.419" pid=5599 label="snap.firefox.firefox" peer_pid=36012 peer_label="unconfined"
+Oct 22 16:13:58 cis106vm kernel: [53276.442090]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 16:13:58 cis106vm kernel: [53276.442126] audit: type=1420 audit(1666469638.775:220): subj_apparmor=unconfined
+Oct 22 16:21:04 cis106vm kernel: [53702.171542] e1000: enp0s3 NIC Link is Down
+Oct 22 16:21:08 cis106vm kernel: [53706.202179] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Oct 22 16:24:34 cis106vm kernel: [53911.794849] e1000: enp0s3 NIC Link is Down
+Oct 22 16:24:36 cis106vm kernel: [53913.809741] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Oct 22 18:54:39 cis106vm kernel: [54571.821769] 22:54:29.665156 timesync vgsvcTimeSyncWorker: Radical host time change: 7 381 483 000 000ns (HostNow=1 666 479 269 655 000 000 
+Oct 22 19:29:19 cis106vm kernel: [54581.829794] 22:54:39.674092 timesync vgsvcTimeSyncWorker: Radical guest time change: 8 344 879 695 000ns (GuestNow=1 666 479 279 674 072 00
+Oct 22 19:29:19 cis106vm kernel: [56662.047024] usb 1-1: USB disconnect, device number 4
+Oct 22 19:29:20 cis106vm kernel: [56662.414486] 23:29:20.258598 control  Session 0 is about to close ...
+Oct 22 19:29:20 cis106vm kernel: [56662.434184] 23:29:20.276729 control  Stopping all guest processes ...
+Oct 22 19:29:20 cis106vm kernel: [56662.554116] 23:29:20.398583 control  Closing all guest files ...
+Oct 22 19:47:16 cis106vm kernel: [56662.883151] usb 1-1: new full-speed USB device number 5 using ohci-pci
+Oct 22 19:47:16 cis106vm kernel: [56662.925705] e1000: enp0s3 NIC Link is Down
+Oct 22 19:47:16 cis106vm kernel: [56663.362325] usb 1-1: New USB device found, idVendor=80ee, idProduct=0021, bcdDevice= 1.00
+Oct 22 19:47:16 cis106vm kernel: [56663.362350] usb 1-1: New USB device strings: Mfr=1, Product=3, SerialNumber=0
+Oct 22 19:47:16 cis106vm kernel: [56663.362368] usb 1-1: Product: USB Tablet
+Oct 22 19:47:16 cis106vm kernel: [56663.362381] usb 1-1: Manufacturer: VirtualBox
+Oct 22 19:47:16 cis106vm kernel: [56663.368637] usb 1-1: can't set config #1, error -32
+Oct 22 19:47:18 cis106vm kernel: [56664.961245] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Oct 22 20:08:55 cis106vm kernel: [57962.698064] audit: type=1326 audit(1666483735.870:221): auid=1000 uid=1000 gid=1000 ses=3 subj=? pid=2704 comm="pool-org.gnome." exe="/snap/snap-store/599/usr/bin/snap-store" sig=0 arch=c000003e syscall=93 compat=0 ip=0x7f5736ccf39b code=0x50000
+Oct 22 20:29:24 cis106vm kernel: [59191.529449] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 20:29:24 cis106vm kernel: [59191.529602] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 20:29:40 cis106vm kernel: [59207.475238] audit: type=1107 audit(1666484980.646:222): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.441" pid=5599 label="snap.firefox.firefox" peer_pid=37412 peer_label="unconfined"
+Oct 22 20:29:40 cis106vm kernel: [59207.475238]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 20:29:40 cis106vm kernel: [59207.475351] audit: type=1420 audit(1666484980.646:223): subj_apparmor=unconfined
+Oct 22 20:29:40 cis106vm kernel: [59207.480161] audit: type=1107 audit(1666484980.650:224): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.441" pid=5599 label="snap.firefox.firefox" peer_pid=37412 peer_label="unconfined"
+Oct 22 20:29:40 cis106vm kernel: [59207.480161]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 20:29:40 cis106vm kernel: [59207.480184] audit: type=1420 audit(1666484980.650:225): subj_apparmor=unconfined
+Oct 22 20:29:40 cis106vm kernel: [59207.480195] audit: type=1107 audit(1666484980.654:226): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.441" pid=5599 label="snap.firefox.firefox" peer_pid=37412 peer_label="unconfined"
+Oct 22 20:29:40 cis106vm kernel: [59207.480195]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 20:29:40 cis106vm kernel: [59207.480213] audit: type=1420 audit(1666484980.654:227): subj_apparmor=unconfined
+Oct 22 20:29:40 cis106vm kernel: [59207.480223] audit: type=1107 audit(1666484980.654:228): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.441" pid=5599 label="snap.firefox.firefox" peer_pid=37412 peer_label="unconfined"
+Oct 22 20:29:40 cis106vm kernel: [59207.480223]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 20:29:40 cis106vm kernel: [59207.480242] audit: type=1420 audit(1666484980.654:229): subj_apparmor=unconfined
+Oct 22 20:29:40 cis106vm kernel: [59207.484604] audit: type=1107 audit(1666484980.658:230): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.441" pid=5599 label="snap.firefox.firefox" peer_pid=37412 peer_label="unconfined"
+Oct 22 20:29:40 cis106vm kernel: [59207.484604]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 20:29:40 cis106vm kernel: [59207.484625] audit: type=1420 audit(1666484980.658:231): subj_apparmor=unconfined
+Oct 22 20:41:07 cis106vm kernel: [59894.637006] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 20:41:07 cis106vm kernel: [59894.637243] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 20:41:16 cis106vm kernel: [59903.336732] kauditd_printk_skb: 8 callbacks suppressed
+Oct 22 20:41:16 cis106vm kernel: [59903.336743] audit: type=1107 audit(1666485676.510:240): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.444" pid=5599 label="snap.firefox.firefox" peer_pid=37554 peer_label="unconfined"
+Oct 22 20:41:16 cis106vm kernel: [59903.336743]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 20:41:16 cis106vm kernel: [59903.336790] audit: type=1420 audit(1666485676.510:241): subj_apparmor=unconfined
+Oct 22 20:41:16 cis106vm kernel: [59903.340313] audit: type=1107 audit(1666485676.514:242): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.444" pid=5599 label="snap.firefox.firefox" peer_pid=37554 peer_label="unconfined"
+Oct 22 20:41:16 cis106vm kernel: [59903.340313]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 20:41:16 cis106vm kernel: [59903.340362] audit: type=1420 audit(1666485676.514:243): subj_apparmor=unconfined
+Oct 22 20:41:16 cis106vm kernel: [59903.349499] audit: type=1107 audit(1666485676.522:244): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.444" pid=5599 label="snap.firefox.firefox" peer_pid=37554 peer_label="unconfined"
+Oct 22 20:41:16 cis106vm kernel: [59903.349499]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 20:41:16 cis106vm kernel: [59903.349542] audit: type=1420 audit(1666485676.522:245): subj_apparmor=unconfined
+Oct 22 20:41:16 cis106vm kernel: [59903.350453] audit: type=1107 audit(1666485676.522:246): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.444" pid=5599 label="snap.firefox.firefox" peer_pid=37554 peer_label="unconfined"
+Oct 22 20:41:16 cis106vm kernel: [59903.350453]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 20:41:16 cis106vm kernel: [59903.350898] audit: type=1420 audit(1666485676.522:247): subj_apparmor=unconfined
+Oct 22 20:41:16 cis106vm kernel: [59903.353916] audit: type=1107 audit(1666485676.526:248): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.444" pid=5599 label="snap.firefox.firefox" peer_pid=37554 peer_label="unconfined"
+Oct 22 20:41:16 cis106vm kernel: [59903.353916]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 20:41:16 cis106vm kernel: [59903.354332] audit: type=1420 audit(1666485676.526:249): subj_apparmor=unconfined
+Oct 22 20:54:30 cis106vm kernel: [60697.607311] e1000: enp0s3 NIC Link is Down
+Oct 22 20:54:34 cis106vm kernel: [60701.639900] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Oct 22 20:54:51 cis106vm kernel: [60718.264155] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 20:54:51 cis106vm kernel: [60718.264435] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 20:55:00 cis106vm kernel: [60727.708730] kauditd_printk_skb: 8 callbacks suppressed
+Oct 22 20:55:00 cis106vm kernel: [60727.708742] audit: type=1107 audit(1666486500.882:258): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.450" pid=5599 label="snap.firefox.firefox" peer_pid=37829 peer_label="unconfined"
+Oct 22 20:55:00 cis106vm kernel: [60727.708742]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 20:55:00 cis106vm kernel: [60727.708785] audit: type=1420 audit(1666486500.882:259): subj_apparmor=unconfined
+Oct 22 20:55:00 cis106vm kernel: [60727.710550] audit: type=1107 audit(1666486500.882:260): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.450" pid=5599 label="snap.firefox.firefox" peer_pid=37829 peer_label="unconfined"
+Oct 22 20:55:00 cis106vm kernel: [60727.710550]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 20:55:00 cis106vm kernel: [60727.710593] audit: type=1420 audit(1666486500.882:261): subj_apparmor=unconfined
+Oct 22 20:55:00 cis106vm kernel: [60727.715773] audit: type=1107 audit(1666486500.886:262): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.450" pid=5599 label="snap.firefox.firefox" peer_pid=37829 peer_label="unconfined"
+Oct 22 20:55:00 cis106vm kernel: [60727.715773]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 20:55:00 cis106vm kernel: [60727.715810] audit: type=1420 audit(1666486500.886:263): subj_apparmor=unconfined
+Oct 22 20:55:00 cis106vm kernel: [60727.755129] audit: type=1107 audit(1666486500.926:264): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.450" pid=5599 label="snap.firefox.firefox" peer_pid=37829 peer_label="unconfined"
+Oct 22 20:55:00 cis106vm kernel: [60727.755129]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 20:55:00 cis106vm kernel: [60727.755166] audit: type=1420 audit(1666486500.926:265): subj_apparmor=unconfined
+Oct 22 20:55:00 cis106vm kernel: [60727.758448] audit: type=1107 audit(1666486500.930:266): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.450" pid=5599 label="snap.firefox.firefox" peer_pid=37829 peer_label="unconfined"
+Oct 22 20:55:00 cis106vm kernel: [60727.758448]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 20:55:00 cis106vm kernel: [60727.758493] audit: type=1420 audit(1666486500.930:267): subj_apparmor=unconfined
+Oct 22 20:55:35 cis106vm kernel: [60762.119117] e1000: enp0s3 NIC Link is Down
+Oct 22 20:55:39 cis106vm kernel: [60766.151603] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Oct 22 20:58:05 cis106vm kernel: [60912.560053] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 20:58:05 cis106vm kernel: [60912.560193] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 20:58:51 cis106vm kernel: [60958.804738] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 20:58:51 cis106vm kernel: [60958.804958] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 20:59:22 cis106vm kernel: [60989.352542] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 20:59:22 cis106vm kernel: [60989.352795] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 20:59:46 cis106vm kernel: [61013.395863] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 20:59:46 cis106vm kernel: [61013.396056] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 21:00:16 cis106vm kernel: [61043.663252] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 21:00:16 cis106vm kernel: [61043.663539] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 21:01:15 cis106vm kernel: [61101.837720] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 21:01:15 cis106vm kernel: [61101.837826] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 21:02:44 cis106vm kernel: [61191.547531] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 21:02:44 cis106vm kernel: [61191.547974] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 21:08:57 cis106vm kernel: [61564.197432] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 21:08:57 cis106vm kernel: [61564.197523] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 21:09:04 cis106vm kernel: [61571.551878] kauditd_printk_skb: 8 callbacks suppressed
+Oct 22 21:09:04 cis106vm kernel: [61571.551895] audit: type=1107 audit(1666487344.726:276): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.516" pid=5599 label="snap.firefox.firefox" peer_pid=39146 peer_label="unconfined"
+Oct 22 21:09:04 cis106vm kernel: [61571.551895]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:09:04 cis106vm kernel: [61571.551934] audit: type=1420 audit(1666487344.726:277): subj_apparmor=unconfined
+Oct 22 21:09:04 cis106vm kernel: [61571.553316] audit: type=1107 audit(1666487344.726:278): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.516" pid=5599 label="snap.firefox.firefox" peer_pid=39146 peer_label="unconfined"
+Oct 22 21:09:04 cis106vm kernel: [61571.553316]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:09:04 cis106vm kernel: [61571.553363] audit: type=1420 audit(1666487344.726:279): subj_apparmor=unconfined
+Oct 22 21:09:04 cis106vm kernel: [61571.553788] audit: type=1107 audit(1666487344.726:280): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.516" pid=5599 label="snap.firefox.firefox" peer_pid=39146 peer_label="unconfined"
+Oct 22 21:09:04 cis106vm kernel: [61571.553788]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:09:04 cis106vm kernel: [61571.553818] audit: type=1420 audit(1666487344.726:281): subj_apparmor=unconfined
+Oct 22 21:09:04 cis106vm kernel: [61571.554517] audit: type=1107 audit(1666487344.726:282): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.516" pid=5599 label="snap.firefox.firefox" peer_pid=39146 peer_label="unconfined"
+Oct 22 21:09:04 cis106vm kernel: [61571.554517]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:09:04 cis106vm kernel: [61571.554547] audit: type=1420 audit(1666487344.726:283): subj_apparmor=unconfined
+Oct 22 21:09:04 cis106vm kernel: [61571.560362] audit: type=1107 audit(1666487344.734:284): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.516" pid=5599 label="snap.firefox.firefox" peer_pid=39146 peer_label="unconfined"
+Oct 22 21:09:04 cis106vm kernel: [61571.560362]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:09:04 cis106vm kernel: [61571.560409] audit: type=1420 audit(1666487344.734:285): subj_apparmor=unconfined
+Oct 22 21:19:24 cis106vm kernel: [62191.538413] kauditd_printk_skb: 8 callbacks suppressed
+Oct 22 21:19:24 cis106vm kernel: [62191.538561] audit: type=1107 audit(1666487964.710:294): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.522" pid=5599 label="snap.firefox.firefox" peer_pid=39731 peer_label="unconfined"
+Oct 22 21:19:24 cis106vm kernel: [62191.538561]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:19:24 cis106vm kernel: [62191.538608] audit: type=1420 audit(1666487964.710:295): subj_apparmor=unconfined
+Oct 22 21:19:24 cis106vm kernel: [62191.544558] audit: type=1107 audit(1666487964.718:296): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.522" pid=5599 label="snap.firefox.firefox" peer_pid=39731 peer_label="unconfined"
+Oct 22 21:19:24 cis106vm kernel: [62191.544558]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:19:24 cis106vm kernel: [62191.544595] audit: type=1420 audit(1666487964.718:297): subj_apparmor=unconfined
+Oct 22 21:19:24 cis106vm kernel: [62191.549855] audit: type=1107 audit(1666487964.722:298): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.522" pid=5599 label="snap.firefox.firefox" peer_pid=39731 peer_label="unconfined"
+Oct 22 21:19:24 cis106vm kernel: [62191.549855]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:19:24 cis106vm kernel: [62191.549901] audit: type=1420 audit(1666487964.722:299): subj_apparmor=unconfined
+Oct 22 21:19:24 cis106vm kernel: [62191.551302] audit: type=1107 audit(1666487964.726:300): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.522" pid=5599 label="snap.firefox.firefox" peer_pid=39731 peer_label="unconfined"
+Oct 22 21:19:24 cis106vm kernel: [62191.551302]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:19:24 cis106vm kernel: [62191.551527] audit: type=1420 audit(1666487964.726:301): subj_apparmor=unconfined
+Oct 22 21:19:24 cis106vm kernel: [62191.560697] audit: type=1107 audit(1666487964.734:302): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.522" pid=5599 label="snap.firefox.firefox" peer_pid=39731 peer_label="unconfined"
+Oct 22 21:19:24 cis106vm kernel: [62191.560697]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:19:24 cis106vm kernel: [62191.560798] audit: type=1420 audit(1666487964.734:303): subj_apparmor=unconfined
+Oct 22 21:20:10 cis106vm kernel: [62237.118520] kauditd_printk_skb: 12 callbacks suppressed
+Oct 22 21:20:10 cis106vm kernel: [62237.118529] audit: type=1107 audit(1666488010.290:316): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.523" pid=5599 label="snap.firefox.firefox" peer_pid=39771 peer_label="unconfined"
+Oct 22 21:20:10 cis106vm kernel: [62237.118529]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:20:10 cis106vm kernel: [62237.118686] audit: type=1420 audit(1666488010.290:317): subj_apparmor=unconfined
+Oct 22 21:20:10 cis106vm kernel: [62237.122214] audit: type=1107 audit(1666488010.294:318): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.523" pid=5599 label="snap.firefox.firefox" peer_pid=39771 peer_label="unconfined"
+Oct 22 21:20:10 cis106vm kernel: [62237.122214]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:20:10 cis106vm kernel: [62237.122255] audit: type=1420 audit(1666488010.294:319): subj_apparmor=unconfined
+Oct 22 21:20:10 cis106vm kernel: [62237.125449] audit: type=1107 audit(1666488010.298:320): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.523" pid=5599 label="snap.firefox.firefox" peer_pid=39771 peer_label="unconfined"
+Oct 22 21:20:10 cis106vm kernel: [62237.125449]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:20:10 cis106vm kernel: [62237.125491] audit: type=1420 audit(1666488010.298:321): subj_apparmor=unconfined
+Oct 22 21:20:10 cis106vm kernel: [62237.128701] audit: type=1107 audit(1666488010.302:322): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.523" pid=5599 label="snap.firefox.firefox" peer_pid=39771 peer_label="unconfined"
+Oct 22 21:20:10 cis106vm kernel: [62237.128701]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:20:10 cis106vm kernel: [62237.128743] audit: type=1420 audit(1666488010.302:323): subj_apparmor=unconfined
+Oct 22 21:20:10 cis106vm kernel: [62237.129486] audit: type=1107 audit(1666488010.302:324): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.523" pid=5599 label="snap.firefox.firefox" peer_pid=39771 peer_label="unconfined"
+Oct 22 21:20:10 cis106vm kernel: [62237.129486]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:20:10 cis106vm kernel: [62237.129526] audit: type=1420 audit(1666488010.302:325): subj_apparmor=unconfined
+Oct 22 21:20:26 cis106vm kernel: [62253.735381] kauditd_printk_skb: 14 callbacks suppressed
+Oct 22 21:20:26 cis106vm kernel: [62253.735392] audit: type=1107 audit(1666488026.910:340): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.523" pid=5599 label="snap.firefox.firefox" peer_pid=39771 peer_label="unconfined"
+Oct 22 21:20:26 cis106vm kernel: [62253.735392]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:20:26 cis106vm kernel: [62253.735436] audit: type=1420 audit(1666488026.910:341): subj_apparmor=unconfined
+Oct 22 21:20:54 cis106vm kernel: [62281.494978] audit: type=1107 audit(1666488054.666:342): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.523" pid=5599 label="snap.firefox.firefox" peer_pid=39771 peer_label="unconfined"
+Oct 22 21:20:54 cis106vm kernel: [62281.494978]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:20:54 cis106vm kernel: [62281.495023] audit: type=1420 audit(1666488054.666:343): subj_apparmor=unconfined
+Oct 22 21:21:09 cis106vm kernel: [62295.919607] audit: type=1107 audit(1666488069.094:344): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.523" pid=5599 label="snap.firefox.firefox" peer_pid=39771 peer_label="unconfined"
+Oct 22 21:21:09 cis106vm kernel: [62295.919607]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:21:09 cis106vm kernel: [62295.919648] audit: type=1420 audit(1666488069.094:345): subj_apparmor=unconfined
+Oct 22 21:28:01 cis106vm kernel: [62708.512227] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 21:28:01 cis106vm kernel: [62708.512376] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 21:28:10 cis106vm kernel: [62717.767864] audit: type=1107 audit(1666488490.942:346): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.525" pid=5599 label="snap.firefox.firefox" peer_pid=39953 peer_label="unconfined"
+Oct 22 21:28:10 cis106vm kernel: [62717.767864]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:28:10 cis106vm kernel: [62717.767886] audit: type=1420 audit(1666488490.942:347): subj_apparmor=unconfined
+Oct 22 21:28:10 cis106vm kernel: [62717.768467] audit: type=1107 audit(1666488490.942:348): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.525" pid=5599 label="snap.firefox.firefox" peer_pid=39953 peer_label="unconfined"
+Oct 22 21:28:10 cis106vm kernel: [62717.768467]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:28:10 cis106vm kernel: [62717.768487] audit: type=1420 audit(1666488490.942:349): subj_apparmor=unconfined
+Oct 22 21:28:10 cis106vm kernel: [62717.768498] audit: type=1107 audit(1666488490.942:350): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.525" pid=5599 label="snap.firefox.firefox" peer_pid=39953 peer_label="unconfined"
+Oct 22 21:28:10 cis106vm kernel: [62717.768498]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:28:10 cis106vm kernel: [62717.768516] audit: type=1420 audit(1666488490.942:351): subj_apparmor=unconfined
+Oct 22 21:28:10 cis106vm kernel: [62717.768921] audit: type=1107 audit(1666488490.942:352): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.525" pid=5599 label="snap.firefox.firefox" peer_pid=39953 peer_label="unconfined"
+Oct 22 21:28:10 cis106vm kernel: [62717.768921]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:28:10 cis106vm kernel: [62717.768942] audit: type=1420 audit(1666488490.942:353): subj_apparmor=unconfined
+Oct 22 21:28:10 cis106vm kernel: [62717.770343] audit: type=1107 audit(1666488490.942:354): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.525" pid=5599 label="snap.firefox.firefox" peer_pid=39953 peer_label="unconfined"
+Oct 22 21:28:10 cis106vm kernel: [62717.770343]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 21:28:10 cis106vm kernel: [62717.770363] audit: type=1420 audit(1666488490.942:355): subj_apparmor=unconfined
+Oct 22 21:31:37 cis106vm kernel: [62923.949943] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 21:31:37 cis106vm kernel: [62923.950081] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 22:10:21 cis106vm kernel: [65248.170260] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 22:10:21 cis106vm kernel: [65248.170438] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 22:10:35 cis106vm kernel: [65262.007949] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 22:10:35 cis106vm kernel: [65262.008082] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 22:10:45 cis106vm kernel: [65272.329490] kauditd_printk_skb: 18 callbacks suppressed
+Oct 22 22:10:45 cis106vm kernel: [65272.329499] audit: type=1107 audit(1666491045.502:374): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.529" pid=5599 label="snap.firefox.firefox" peer_pid=40501 peer_label="unconfined"
+Oct 22 22:10:45 cis106vm kernel: [65272.329499]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:10:45 cis106vm kernel: [65272.329528] audit: type=1420 audit(1666491045.502:375): subj_apparmor=unconfined
+Oct 22 22:10:45 cis106vm kernel: [65272.329543] audit: type=1107 audit(1666491045.502:376): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.529" pid=5599 label="snap.firefox.firefox" peer_pid=40501 peer_label="unconfined"
+Oct 22 22:10:45 cis106vm kernel: [65272.329543]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:10:45 cis106vm kernel: [65272.329569] audit: type=1420 audit(1666491045.502:377): subj_apparmor=unconfined
+Oct 22 22:10:45 cis106vm kernel: [65272.330981] audit: type=1107 audit(1666491045.506:378): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.529" pid=5599 label="snap.firefox.firefox" peer_pid=40501 peer_label="unconfined"
+Oct 22 22:10:45 cis106vm kernel: [65272.330981]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:10:45 cis106vm kernel: [65272.331010] audit: type=1420 audit(1666491045.506:379): subj_apparmor=unconfined
+Oct 22 22:10:45 cis106vm kernel: [65272.331024] audit: type=1107 audit(1666491045.506:380): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.529" pid=5599 label="snap.firefox.firefox" peer_pid=40501 peer_label="unconfined"
+Oct 22 22:10:45 cis106vm kernel: [65272.331024]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:10:45 cis106vm kernel: [65272.331050] audit: type=1420 audit(1666491045.506:381): subj_apparmor=unconfined
+Oct 22 22:10:45 cis106vm kernel: [65272.331065] audit: type=1107 audit(1666491045.506:382): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.529" pid=5599 label="snap.firefox.firefox" peer_pid=40501 peer_label="unconfined"
+Oct 22 22:10:45 cis106vm kernel: [65272.331065]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:10:45 cis106vm kernel: [65272.331126] audit: type=1420 audit(1666491045.506:383): subj_apparmor=unconfined
+Oct 22 22:14:10 cis106vm kernel: [65477.057598] kauditd_printk_skb: 18 callbacks suppressed
+Oct 22 22:14:10 cis106vm kernel: [65477.057609] audit: type=1107 audit(1666491250.230:402): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.531" pid=5599 label="snap.firefox.firefox" peer_pid=40552 peer_label="unconfined"
+Oct 22 22:14:10 cis106vm kernel: [65477.057609]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:14:10 cis106vm kernel: [65477.057650] audit: type=1420 audit(1666491250.230:403): subj_apparmor=unconfined
+Oct 22 22:14:10 cis106vm kernel: [65477.061685] audit: type=1107 audit(1666491250.234:404): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.531" pid=5599 label="snap.firefox.firefox" peer_pid=40552 peer_label="unconfined"
+Oct 22 22:14:10 cis106vm kernel: [65477.061685]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:14:10 cis106vm kernel: [65477.061726] audit: type=1420 audit(1666491250.234:405): subj_apparmor=unconfined
+Oct 22 22:14:10 cis106vm kernel: [65477.064945] audit: type=1107 audit(1666491250.238:406): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.531" pid=5599 label="snap.firefox.firefox" peer_pid=40552 peer_label="unconfined"
+Oct 22 22:14:10 cis106vm kernel: [65477.064945]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:14:10 cis106vm kernel: [65477.064986] audit: type=1420 audit(1666491250.238:407): subj_apparmor=unconfined
+Oct 22 22:14:10 cis106vm kernel: [65477.072140] audit: type=1107 audit(1666491250.246:408): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.531" pid=5599 label="snap.firefox.firefox" peer_pid=40552 peer_label="unconfined"
+Oct 22 22:14:10 cis106vm kernel: [65477.072140]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:14:10 cis106vm kernel: [65477.072173] audit: type=1420 audit(1666491250.246:409): subj_apparmor=unconfined
+Oct 22 22:14:10 cis106vm kernel: [65477.073595] audit: type=1107 audit(1666491250.246:410): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.531" pid=5599 label="snap.firefox.firefox" peer_pid=40552 peer_label="unconfined"
+Oct 22 22:14:10 cis106vm kernel: [65477.073595]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:14:10 cis106vm kernel: [65477.073708] audit: type=1420 audit(1666491250.246:411): subj_apparmor=unconfined
+Oct 22 22:20:44 cis106vm kernel: [65870.904660] kauditd_printk_skb: 18 callbacks suppressed
+Oct 22 22:20:44 cis106vm kernel: [65870.904672] audit: type=1107 audit(1666491644.078:430): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.533" pid=5599 label="snap.firefox.firefox" peer_pid=40654 peer_label="unconfined"
+Oct 22 22:20:44 cis106vm kernel: [65870.904672]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:20:44 cis106vm kernel: [65870.904717] audit: type=1420 audit(1666491644.078:431): subj_apparmor=unconfined
+Oct 22 22:20:44 cis106vm kernel: [65870.910830] audit: type=1107 audit(1666491644.086:432): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.533" pid=5599 label="snap.firefox.firefox" peer_pid=40654 peer_label="unconfined"
+Oct 22 22:20:44 cis106vm kernel: [65870.910830]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:20:44 cis106vm kernel: [65870.910865] audit: type=1420 audit(1666491644.086:433): subj_apparmor=unconfined
+Oct 22 22:20:44 cis106vm kernel: [65870.916765] audit: type=1107 audit(1666491644.090:434): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.533" pid=5599 label="snap.firefox.firefox" peer_pid=40654 peer_label="unconfined"
+Oct 22 22:20:44 cis106vm kernel: [65870.916765]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:20:44 cis106vm kernel: [65870.916809] audit: type=1420 audit(1666491644.090:435): subj_apparmor=unconfined
+Oct 22 22:20:44 cis106vm kernel: [65870.921571] audit: type=1107 audit(1666491644.094:436): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.533" pid=5599 label="snap.firefox.firefox" peer_pid=40654 peer_label="unconfined"
+Oct 22 22:20:44 cis106vm kernel: [65870.921571]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:20:44 cis106vm kernel: [65870.921604] audit: type=1420 audit(1666491644.094:437): subj_apparmor=unconfined
+Oct 22 22:20:44 cis106vm kernel: [65870.925177] audit: type=1107 audit(1666491644.098:438): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.533" pid=5599 label="snap.firefox.firefox" peer_pid=40654 peer_label="unconfined"
+Oct 22 22:20:44 cis106vm kernel: [65870.925177]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:20:44 cis106vm kernel: [65870.925211] audit: type=1420 audit(1666491644.098:439): subj_apparmor=unconfined
+Oct 22 22:22:21 cis106vm kernel: [65968.814513] kauditd_printk_skb: 18 callbacks suppressed
+Oct 22 22:22:21 cis106vm kernel: [65968.814525] audit: type=1107 audit(1666491741.986:458): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.536" pid=5599 label="snap.firefox.firefox" peer_pid=40755 peer_label="unconfined"
+Oct 22 22:22:21 cis106vm kernel: [65968.814525]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:22:21 cis106vm kernel: [65968.814564] audit: type=1420 audit(1666491741.986:459): subj_apparmor=unconfined
+Oct 22 22:22:22 cis106vm kernel: [65968.856816] audit: type=1107 audit(1666491742.030:460): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.536" pid=5599 label="snap.firefox.firefox" peer_pid=40755 peer_label="unconfined"
+Oct 22 22:22:22 cis106vm kernel: [65968.856816]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:22:22 cis106vm kernel: [65968.856859] audit: type=1420 audit(1666491742.030:461): subj_apparmor=unconfined
+Oct 22 22:22:22 cis106vm kernel: [65968.919952] audit: type=1107 audit(1666491742.094:462): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.536" pid=5599 label="snap.firefox.firefox" peer_pid=40755 peer_label="unconfined"
+Oct 22 22:22:22 cis106vm kernel: [65968.919952]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:22:22 cis106vm kernel: [65968.919994] audit: type=1420 audit(1666491742.094:463): subj_apparmor=unconfined
+Oct 22 22:22:22 cis106vm kernel: [65968.924555] audit: type=1107 audit(1666491742.098:464): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.536" pid=5599 label="snap.firefox.firefox" peer_pid=40755 peer_label="unconfined"
+Oct 22 22:22:22 cis106vm kernel: [65968.924555]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:22:22 cis106vm kernel: [65968.924602] audit: type=1420 audit(1666491742.098:465): subj_apparmor=unconfined
+Oct 22 22:22:22 cis106vm kernel: [65968.930524] audit: type=1107 audit(1666491742.102:466): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.536" pid=5599 label="snap.firefox.firefox" peer_pid=40755 peer_label="unconfined"
+Oct 22 22:22:22 cis106vm kernel: [65968.930524]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:22:22 cis106vm kernel: [65968.930564] audit: type=1420 audit(1666491742.102:467): subj_apparmor=unconfined
+Oct 22 22:23:06 cis106vm kernel: [66013.504611] kauditd_printk_skb: 22 callbacks suppressed
+Oct 22 22:23:06 cis106vm kernel: [66013.504624] audit: type=1107 audit(1666491786.678:490): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.537" pid=5599 label="snap.firefox.firefox" peer_pid=40799 peer_label="unconfined"
+Oct 22 22:23:06 cis106vm kernel: [66013.504624]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:23:06 cis106vm kernel: [66013.504667] audit: type=1420 audit(1666491786.678:491): subj_apparmor=unconfined
+Oct 22 22:23:06 cis106vm kernel: [66013.507093] audit: type=1107 audit(1666491786.682:492): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.537" pid=5599 label="snap.firefox.firefox" peer_pid=40799 peer_label="unconfined"
+Oct 22 22:23:06 cis106vm kernel: [66013.507093]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:23:06 cis106vm kernel: [66013.507131] audit: type=1420 audit(1666491786.682:493): subj_apparmor=unconfined
+Oct 22 22:23:06 cis106vm kernel: [66013.507815] audit: type=1107 audit(1666491786.682:494): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.537" pid=5599 label="snap.firefox.firefox" peer_pid=40799 peer_label="unconfined"
+Oct 22 22:23:06 cis106vm kernel: [66013.507815]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:23:06 cis106vm kernel: [66013.507854] audit: type=1420 audit(1666491786.682:495): subj_apparmor=unconfined
+Oct 22 22:23:06 cis106vm kernel: [66013.508565] audit: type=1107 audit(1666491786.682:496): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.537" pid=5599 label="snap.firefox.firefox" peer_pid=40799 peer_label="unconfined"
+Oct 22 22:23:06 cis106vm kernel: [66013.508565]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:23:06 cis106vm kernel: [66013.508605] audit: type=1420 audit(1666491786.682:497): subj_apparmor=unconfined
+Oct 22 22:23:06 cis106vm kernel: [66013.509859] audit: type=1107 audit(1666491786.682:498): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.537" pid=5599 label="snap.firefox.firefox" peer_pid=40799 peer_label="unconfined"
+Oct 22 22:23:06 cis106vm kernel: [66013.509859]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:23:06 cis106vm kernel: [66013.509898] audit: type=1420 audit(1666491786.682:499): subj_apparmor=unconfined
+Oct 22 22:24:04 cis106vm kernel: [66071.598741] kauditd_printk_skb: 24 callbacks suppressed
+Oct 22 22:24:04 cis106vm kernel: [66071.598750] audit: type=1107 audit(1666491844.774:524): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.538" pid=5599 label="snap.firefox.firefox" peer_pid=40848 peer_label="unconfined"
+Oct 22 22:24:04 cis106vm kernel: [66071.598750]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:24:04 cis106vm kernel: [66071.598779] audit: type=1420 audit(1666491844.774:525): subj_apparmor=unconfined
+Oct 22 22:24:04 cis106vm kernel: [66071.605143] audit: type=1107 audit(1666491844.778:526): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.538" pid=5599 label="snap.firefox.firefox" peer_pid=40848 peer_label="unconfined"
+Oct 22 22:24:04 cis106vm kernel: [66071.605143]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:24:04 cis106vm kernel: [66071.605227] audit: type=1420 audit(1666491844.778:527): subj_apparmor=unconfined
+Oct 22 22:24:04 cis106vm kernel: [66071.613895] audit: type=1107 audit(1666491844.786:528): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.538" pid=5599 label="snap.firefox.firefox" peer_pid=40848 peer_label="unconfined"
+Oct 22 22:24:04 cis106vm kernel: [66071.613895]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:24:04 cis106vm kernel: [66071.613937] audit: type=1420 audit(1666491844.786:529): subj_apparmor=unconfined
+Oct 22 22:24:04 cis106vm kernel: [66071.615798] audit: type=1107 audit(1666491844.790:530): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.538" pid=5599 label="snap.firefox.firefox" peer_pid=40848 peer_label="unconfined"
+Oct 22 22:24:04 cis106vm kernel: [66071.615798]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:24:04 cis106vm kernel: [66071.615834] audit: type=1420 audit(1666491844.790:531): subj_apparmor=unconfined
+Oct 22 22:24:04 cis106vm kernel: [66071.623583] audit: type=1107 audit(1666491844.798:532): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.538" pid=5599 label="snap.firefox.firefox" peer_pid=40848 peer_label="unconfined"
+Oct 22 22:24:04 cis106vm kernel: [66071.623583]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:24:04 cis106vm kernel: [66071.623620] audit: type=1420 audit(1666491844.798:533): subj_apparmor=unconfined
+Oct 22 22:34:59 cis106vm kernel: [66726.556694] kauditd_printk_skb: 26 callbacks suppressed
+Oct 22 22:34:59 cis106vm kernel: [66726.556704] audit: type=1107 audit(1666492499.734:560): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.539" pid=5599 label="snap.firefox.firefox" peer_pid=40969 peer_label="unconfined"
+Oct 22 22:34:59 cis106vm kernel: [66726.556704]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:34:59 cis106vm kernel: [66726.556737] audit: type=1420 audit(1666492499.734:561): subj_apparmor=unconfined
+Oct 22 22:34:59 cis106vm kernel: [66726.563931] audit: type=1107 audit(1666492499.738:562): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.539" pid=5599 label="snap.firefox.firefox" peer_pid=40969 peer_label="unconfined"
+Oct 22 22:34:59 cis106vm kernel: [66726.563931]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:34:59 cis106vm kernel: [66726.563966] audit: type=1420 audit(1666492499.738:563): subj_apparmor=unconfined
+Oct 22 22:34:59 cis106vm kernel: [66726.570980] audit: type=1107 audit(1666492499.742:564): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.539" pid=5599 label="snap.firefox.firefox" peer_pid=40969 peer_label="unconfined"
+Oct 22 22:34:59 cis106vm kernel: [66726.570980]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:34:59 cis106vm kernel: [66726.571016] audit: type=1420 audit(1666492499.742:565): subj_apparmor=unconfined
+Oct 22 22:34:59 cis106vm kernel: [66726.573047] audit: type=1107 audit(1666492499.750:566): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.539" pid=5599 label="snap.firefox.firefox" peer_pid=40969 peer_label="unconfined"
+Oct 22 22:34:59 cis106vm kernel: [66726.573047]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:34:59 cis106vm kernel: [66726.573080] audit: type=1420 audit(1666492499.750:567): subj_apparmor=unconfined
+Oct 22 22:34:59 cis106vm kernel: [66726.576950] audit: type=1107 audit(1666492499.750:568): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.539" pid=5599 label="snap.firefox.firefox" peer_pid=40969 peer_label="unconfined"
+Oct 22 22:34:59 cis106vm kernel: [66726.576950]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:34:59 cis106vm kernel: [66726.576985] audit: type=1420 audit(1666492499.750:569): subj_apparmor=unconfined
+Oct 22 22:35:37 cis106vm kernel: [66764.448476] kauditd_printk_skb: 28 callbacks suppressed
+Oct 22 22:35:37 cis106vm kernel: [66764.448484] audit: type=1107 audit(1666492537.622:598): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.540" pid=5599 label="snap.firefox.firefox" peer_pid=41026 peer_label="unconfined"
+Oct 22 22:35:37 cis106vm kernel: [66764.448484]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:35:37 cis106vm kernel: [66764.448508] audit: type=1420 audit(1666492537.622:599): subj_apparmor=unconfined
+Oct 22 22:35:37 cis106vm kernel: [66764.450248] audit: type=1107 audit(1666492537.622:600): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.540" pid=5599 label="snap.firefox.firefox" peer_pid=41026 peer_label="unconfined"
+Oct 22 22:35:37 cis106vm kernel: [66764.450248]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:35:37 cis106vm kernel: [66764.450265] audit: type=1420 audit(1666492537.622:601): subj_apparmor=unconfined
+Oct 22 22:35:37 cis106vm kernel: [66764.450275] audit: type=1107 audit(1666492537.622:602): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.540" pid=5599 label="snap.firefox.firefox" peer_pid=41026 peer_label="unconfined"
+Oct 22 22:35:37 cis106vm kernel: [66764.450275]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:35:37 cis106vm kernel: [66764.450294] audit: type=1420 audit(1666492537.622:603): subj_apparmor=unconfined
+Oct 22 22:35:37 cis106vm kernel: [66764.450305] audit: type=1107 audit(1666492537.622:604): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.540" pid=5599 label="snap.firefox.firefox" peer_pid=41026 peer_label="unconfined"
+Oct 22 22:35:37 cis106vm kernel: [66764.450305]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:35:37 cis106vm kernel: [66764.450326] audit: type=1420 audit(1666492537.622:605): subj_apparmor=unconfined
+Oct 22 22:35:37 cis106vm kernel: [66764.454358] audit: type=1107 audit(1666492537.626:606): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.540" pid=5599 label="snap.firefox.firefox" peer_pid=41026 peer_label="unconfined"
+Oct 22 22:35:37 cis106vm kernel: [66764.454358]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:35:37 cis106vm kernel: [66764.454382] audit: type=1420 audit(1666492537.626:607): subj_apparmor=unconfined
+Oct 22 22:38:14 cis106vm kernel: [66920.900882] kauditd_printk_skb: 30 callbacks suppressed
+Oct 22 22:38:14 cis106vm kernel: [66920.900893] audit: type=1107 audit(1666492694.074:638): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.541" pid=5599 label="snap.firefox.firefox" peer_pid=41086 peer_label="unconfined"
+Oct 22 22:38:14 cis106vm kernel: [66920.900893]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:38:14 cis106vm kernel: [66920.900928] audit: type=1420 audit(1666492694.074:639): subj_apparmor=unconfined
+Oct 22 22:38:14 cis106vm kernel: [66920.905034] audit: type=1107 audit(1666492694.074:640): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.541" pid=5599 label="snap.firefox.firefox" peer_pid=41086 peer_label="unconfined"
+Oct 22 22:38:14 cis106vm kernel: [66920.905034]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:38:14 cis106vm kernel: [66920.905078] audit: type=1420 audit(1666492694.074:641): subj_apparmor=unconfined
+Oct 22 22:38:14 cis106vm kernel: [66920.905101] audit: type=1107 audit(1666492694.078:642): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.541" pid=5599 label="snap.firefox.firefox" peer_pid=41086 peer_label="unconfined"
+Oct 22 22:38:14 cis106vm kernel: [66920.905101]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:38:14 cis106vm kernel: [66920.905137] audit: type=1420 audit(1666492694.078:643): subj_apparmor=unconfined
+Oct 22 22:38:14 cis106vm kernel: [66920.905159] audit: type=1107 audit(1666492694.078:644): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.541" pid=5599 label="snap.firefox.firefox" peer_pid=41086 peer_label="unconfined"
+Oct 22 22:38:14 cis106vm kernel: [66920.905159]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:38:14 cis106vm kernel: [66920.905194] audit: type=1420 audit(1666492694.078:645): subj_apparmor=unconfined
+Oct 22 22:38:14 cis106vm kernel: [66920.905217] audit: type=1107 audit(1666492694.078:646): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.541" pid=5599 label="snap.firefox.firefox" peer_pid=41086 peer_label="unconfined"
+Oct 22 22:38:14 cis106vm kernel: [66920.905217]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:38:14 cis106vm kernel: [66920.905253] audit: type=1420 audit(1666492694.078:647): subj_apparmor=unconfined
+Oct 22 22:47:50 cis106vm kernel: [67497.430189] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 22:47:50 cis106vm kernel: [67497.430402] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 22:48:07 cis106vm kernel: [67514.597871] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 22:48:07 cis106vm kernel: [67514.598204] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Oct 22 22:48:20 cis106vm kernel: [67526.827936] kauditd_printk_skb: 32 callbacks suppressed
+Oct 22 22:48:20 cis106vm kernel: [67526.827946] audit: type=1107 audit(1666493300.002:680): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.543" pid=5599 label="snap.firefox.firefox" peer_pid=41279 peer_label="unconfined"
+Oct 22 22:48:20 cis106vm kernel: [67526.827946]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:48:20 cis106vm kernel: [67526.827978] audit: type=1420 audit(1666493300.002:681): subj_apparmor=unconfined
+Oct 22 22:48:20 cis106vm kernel: [67526.828510] audit: type=1107 audit(1666493300.002:682): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.543" pid=5599 label="snap.firefox.firefox" peer_pid=41279 peer_label="unconfined"
+Oct 22 22:48:20 cis106vm kernel: [67526.828510]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:48:20 cis106vm kernel: [67526.828541] audit: type=1420 audit(1666493300.002:683): subj_apparmor=unconfined
+Oct 22 22:48:20 cis106vm kernel: [67526.829158] audit: type=1107 audit(1666493300.002:684): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.543" pid=5599 label="snap.firefox.firefox" peer_pid=41279 peer_label="unconfined"
+Oct 22 22:48:20 cis106vm kernel: [67526.829158]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:48:20 cis106vm kernel: [67526.829185] audit: type=1420 audit(1666493300.002:685): subj_apparmor=unconfined
+Oct 22 22:48:20 cis106vm kernel: [67526.829702] audit: type=1107 audit(1666493300.002:686): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.543" pid=5599 label="snap.firefox.firefox" peer_pid=41279 peer_label="unconfined"
+Oct 22 22:48:20 cis106vm kernel: [67526.829702]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:48:20 cis106vm kernel: [67526.829982] audit: type=1420 audit(1666493300.002:687): subj_apparmor=unconfined
+Oct 22 22:48:20 cis106vm kernel: [67526.831260] audit: type=1107 audit(1666493300.006:688): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.543" pid=5599 label="snap.firefox.firefox" peer_pid=41279 peer_label="unconfined"
+Oct 22 22:48:20 cis106vm kernel: [67526.831260]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:48:20 cis106vm kernel: [67526.831287] audit: type=1420 audit(1666493300.006:689): subj_apparmor=unconfined
+Oct 22 22:49:42 cis106vm kernel: [67608.869224] kauditd_printk_skb: 30 callbacks suppressed
+Oct 22 22:49:42 cis106vm kernel: [67608.869235] audit: type=1107 audit(1666493382.042:720): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.545" pid=5599 label="snap.firefox.firefox" peer_pid=41324 peer_label="unconfined"
+Oct 22 22:49:42 cis106vm kernel: [67608.869235]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:49:42 cis106vm kernel: [67608.869267] audit: type=1420 audit(1666493382.042:721): subj_apparmor=unconfined
+Oct 22 22:49:42 cis106vm kernel: [67608.872580] audit: type=1107 audit(1666493382.046:722): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.545" pid=5599 label="snap.firefox.firefox" peer_pid=41324 peer_label="unconfined"
+Oct 22 22:49:42 cis106vm kernel: [67608.872580]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:49:42 cis106vm kernel: [67608.872623] audit: type=1420 audit(1666493382.046:723): subj_apparmor=unconfined
+Oct 22 22:49:42 cis106vm kernel: [67608.878615] audit: type=1107 audit(1666493382.054:724): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.545" pid=5599 label="snap.firefox.firefox" peer_pid=41324 peer_label="unconfined"
+Oct 22 22:49:42 cis106vm kernel: [67608.878615]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:49:42 cis106vm kernel: [67608.878652] audit: type=1420 audit(1666493382.054:725): subj_apparmor=unconfined
+Oct 22 22:49:42 cis106vm kernel: [67608.880607] audit: type=1107 audit(1666493382.054:726): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.545" pid=5599 label="snap.firefox.firefox" peer_pid=41324 peer_label="unconfined"
+Oct 22 22:49:42 cis106vm kernel: [67608.880607]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:49:42 cis106vm kernel: [67608.880653] audit: type=1420 audit(1666493382.054:727): subj_apparmor=unconfined
+Oct 22 22:49:42 cis106vm kernel: [67608.886760] audit: type=1107 audit(1666493382.062:728): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.545" pid=5599 label="snap.firefox.firefox" peer_pid=41324 peer_label="unconfined"
+Oct 22 22:49:42 cis106vm kernel: [67608.886760]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 22:49:42 cis106vm kernel: [67608.886799] audit: type=1420 audit(1666493382.062:729): subj_apparmor=unconfined
+Oct 22 23:36:55 cis106vm kernel: [70442.543902] kauditd_printk_skb: 30 callbacks suppressed
+Oct 22 23:36:55 cis106vm kernel: [70442.543912] audit: type=1107 audit(1666496215.714:760): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.549" pid=5599 label="snap.firefox.firefox" peer_pid=42785 peer_label="unconfined"
+Oct 22 23:36:55 cis106vm kernel: [70442.543912]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 23:36:55 cis106vm kernel: [70442.543945] audit: type=1420 audit(1666496215.714:761): subj_apparmor=unconfined
+Oct 22 23:36:55 cis106vm kernel: [70442.543961] audit: type=1107 audit(1666496215.714:762): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.549" pid=5599 label="snap.firefox.firefox" peer_pid=42785 peer_label="unconfined"
+Oct 22 23:36:55 cis106vm kernel: [70442.543961]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 23:36:55 cis106vm kernel: [70442.543989] audit: type=1420 audit(1666496215.714:763): subj_apparmor=unconfined
+Oct 22 23:36:55 cis106vm kernel: [70442.544006] audit: type=1107 audit(1666496215.714:764): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.549" pid=5599 label="snap.firefox.firefox" peer_pid=42785 peer_label="unconfined"
+Oct 22 23:36:55 cis106vm kernel: [70442.544006]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 23:36:55 cis106vm kernel: [70442.544034] audit: type=1420 audit(1666496215.714:765): subj_apparmor=unconfined
+Oct 22 23:36:55 cis106vm kernel: [70442.544052] audit: type=1107 audit(1666496215.718:766): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.549" pid=5599 label="snap.firefox.firefox" peer_pid=42785 peer_label="unconfined"
+Oct 22 23:36:55 cis106vm kernel: [70442.544052]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 23:36:55 cis106vm kernel: [70442.544081] audit: type=1420 audit(1666496215.718:767): subj_apparmor=unconfined
+Oct 22 23:36:55 cis106vm kernel: [70442.544098] audit: type=1107 audit(1666496215.718:768): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.549" pid=5599 label="snap.firefox.firefox" peer_pid=42785 peer_label="unconfined"
+Oct 22 23:36:55 cis106vm kernel: [70442.544098]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Oct 22 23:36:55 cis106vm kernel: [70442.544126] audit: type=1420 audit(1666496215.718:769): subj_apparmor=unconfined
+Oct 23 02:54:18 cis106vm kernel: [71465.276415] 06:54:08.645605 timesync vgsvcTimeSyncWorker: Radical host time change: 10 820 197 000 000ns (HostNow=1 666 508 048 607 000 000
+Oct 23 05:56:29 cis106vm kernel: [71475.280672] 06:54:18.649911 timesync vgsvcTimeSyncWorker: Radical guest time change: 10 820 235 962 000ns (GuestNow=1 666 508 058 649 892 0
+Oct 23 05:56:39 cis106vm kernel: [71595.295489] 09:56:29.322635 timesync vgsvcTimeSyncWorker: Radical host time change: 10 820 658 000 000ns (HostNow=1 666 518 989 318 000 000
+Oct 23 06:40:45 cis106vm kernel: [71605.297579] 09:56:39.325180 timesync vgsvcTimeSyncWorker: Radical guest time change: 10 820 664 382 000ns (GuestNow=1 666 518 999 325 163 0
+Oct 23 06:40:45 cis106vm kernel: [74250.157290] usb 1-1: USB disconnect, device number 5
+Oct 23 06:40:46 cis106vm kernel: [74250.853500] 10:40:46.142778 control  Session 0 is about to close ...
+Oct 23 06:40:46 cis106vm kernel: [74250.856958] 10:40:46.145467 control  Stopping all guest processes ...
+Oct 23 06:40:46 cis106vm kernel: [74250.884464] 10:40:46.173792 control  Closing all guest files ...
+Oct 23 06:40:46 cis106vm kernel: [74251.310798] usb 1-1: new full-speed USB device number 6 using ohci-pci
+Oct 23 06:40:46 cis106vm kernel: [74251.351931] e1000: enp0s3 NIC Link is Down
+Oct 23 06:40:46 cis106vm kernel: [74251.353370] e1000 0000:00:03.0 enp0s3: Reset adapter
+Oct 23 06:40:46 cis106vm kernel: [74251.693708] usb 1-1: New USB device found, idVendor=80ee, idProduct=0021, bcdDevice= 1.00
+Oct 23 06:40:46 cis106vm kernel: [74251.693731] usb 1-1: New USB device strings: Mfr=1, Product=3, SerialNumber=0
+Oct 23 06:40:46 cis106vm kernel: [74251.693744] usb 1-1: Product: USB Tablet
+Oct 23 06:40:46 cis106vm kernel: [74251.693753] usb 1-1: Manufacturer: VirtualBox
+Oct 23 06:40:46 cis106vm kernel: [74251.699296] usb 1-1: can't set config #1, error -32
+Oct 23 06:40:48 cis106vm kernel: [74253.494672] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Nov  5 17:32:20 cis106vm kernel: [74254.935054] 21:32:10.706284 timesync vgsvcTimeSyncWorker: Radical host time change: 1 162 244 407 000 000ns (HostNow=1 667 683 930 706 000 
+Nov  5 17:52:02 cis106vm kernel: [74264.946981] 21:32:20.718297 timesync vgsvcTimeSyncWorker: Radical guest time change: 1 162 290 493 341 000ns (GuestNow=1 667 683 940 716 40
+Nov  5 17:52:02 cis106vm kernel: [75447.128505] loop13: detected capacity change from 0 to 129424
+Nov  5 17:52:03 cis106vm kernel: [75447.316171] kauditd_printk_skb: 34 callbacks suppressed
+Nov  5 17:52:03 cis106vm kernel: [75447.316179] audit: type=1400 audit(1667685123.086:804): apparmor="DENIED" operation="open" profile="snap.firefox.firefox" name="/etc/fstab" pid=5599 comm="firefox" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+Nov  5 17:52:10 cis106vm kernel: [75454.480649] audit: type=1400 audit(1667685130.250:805): apparmor="DENIED" operation="open" profile="snap.firefox.firefox" name="/etc/fstab" pid=5599 comm="firefox" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+Nov  5 17:53:49 cis106vm kernel: [75553.462050] loop3: detected capacity change from 0 to 417120
+Nov  5 17:53:49 cis106vm kernel: [75553.562500] audit: type=1400 audit(1667685229.334:806): apparmor="DENIED" operation="open" profile="snap.firefox.firefox" name="/etc/fstab" pid=5599 comm="firefox" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+Nov  5 17:54:13 cis106vm kernel: [75578.061451] audit: type=1400 audit(1667685253.834:807): apparmor="DENIED" operation="open" profile="snap.firefox.firefox" name="/etc/fstab" pid=5599 comm="firefox" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+Nov  5 17:54:14 cis106vm kernel: [75578.946148] audit: type=1400 audit(1667685254.718:808): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="/snap/snapd/17336/usr/lib/snapd/snap-confine" pid=44607 comm="apparmor_parser"
+Nov  5 17:54:14 cis106vm kernel: [75578.946178] audit: type=1400 audit(1667685254.718:809): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="/snap/snapd/17336/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=44607 comm="apparmor_parser"
+Nov  5 17:54:26 cis106vm kernel: [75590.428564] audit: type=1400 audit(1667685266.198:810): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap-update-ns.firefox" pid=44609 comm="apparmor_parser"
+Nov  5 17:54:42 cis106vm kernel: [75606.447683] audit: type=1400 audit(1667685282.218:811): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.firefox.firefox" pid=44615 comm="apparmor_parser"
+Nov  5 17:54:59 cis106vm kernel: [75624.047443] audit: type=1400 audit(1667685299.822:812): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.firefox.geckodriver" pid=44616 comm="apparmor_parser"
+Nov  5 17:55:02 cis106vm kernel: [75626.505301] audit: type=1400 audit(1667685302.278:813): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.firefox.hook.configure" pid=44621 comm="apparmor_parser"
+Nov  5 17:55:04 cis106vm kernel: [75628.630145] audit: type=1400 audit(1667685304.402:814): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.firefox.hook.connect-plug-host-hunspell" pid=44624 comm="apparmor_parser"
+Nov  5 17:55:06 cis106vm kernel: [75630.765046] audit: type=1400 audit(1667685306.538:815): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.firefox.hook.disconnect-plug-host-hunspell" pid=44625 comm="apparmor_parser"
+Nov  5 17:55:08 cis106vm kernel: [75632.737432] audit: type=1400 audit(1667685308.506:816): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.firefox.hook.post-refresh" pid=44626 comm="apparmor_parser"
+Nov  5 17:55:19 cis106vm kernel: [75644.060033] audit: type=1400 audit(1667685319.830:817): apparmor="DENIED" operation="open" profile="snap.firefox.firefox" name="/etc/fstab" pid=5599 comm="firefox" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+Nov  5 17:58:58 cis106vm kernel: [75862.691611] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 17:58:58 cis106vm kernel: [75862.692100] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:00:14 cis106vm kernel: [79539.011735] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:00:14 cis106vm kernel: [79539.011864] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:00:22 cis106vm kernel: [79546.804445] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:00:22 cis106vm kernel: [79546.804565] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:01:11 cis106vm kernel: [79596.148637] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:01:11 cis106vm kernel: [79596.148758] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:01:18 cis106vm kernel: [79603.041811] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:01:18 cis106vm kernel: [79603.041928] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:01:30 cis106vm kernel: [79614.813765] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:01:30 cis106vm kernel: [79614.813931] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:01:34 cis106vm kernel: [79618.724132] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:01:34 cis106vm kernel: [79618.724698] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:01:41 cis106vm kernel: [79625.902650] audit: type=1107 audit(1667689301.674:818): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.568" pid=5599 label="snap.firefox.firefox" peer_pid=45563 peer_label="unconfined"
+Nov  5 19:01:41 cis106vm kernel: [79625.902650]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:01:41 cis106vm kernel: [79625.902672] audit: type=1420 audit(1667689301.674:819): subj_apparmor=unconfined
+Nov  5 19:01:41 cis106vm kernel: [79625.903656] audit: type=1107 audit(1667689301.674:820): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.568" pid=5599 label="snap.firefox.firefox" peer_pid=45563 peer_label="unconfined"
+Nov  5 19:01:41 cis106vm kernel: [79625.903656]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:01:41 cis106vm kernel: [79625.903676] audit: type=1420 audit(1667689301.674:821): subj_apparmor=unconfined
+Nov  5 19:01:41 cis106vm kernel: [79625.903687] audit: type=1107 audit(1667689301.674:822): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.568" pid=5599 label="snap.firefox.firefox" peer_pid=45563 peer_label="unconfined"
+Nov  5 19:01:41 cis106vm kernel: [79625.903687]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:01:41 cis106vm kernel: [79625.903705] audit: type=1420 audit(1667689301.674:823): subj_apparmor=unconfined
+Nov  5 19:01:41 cis106vm kernel: [79625.904057] audit: type=1107 audit(1667689301.674:824): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.568" pid=5599 label="snap.firefox.firefox" peer_pid=45563 peer_label="unconfined"
+Nov  5 19:01:41 cis106vm kernel: [79625.904057]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:01:41 cis106vm kernel: [79625.904077] audit: type=1420 audit(1667689301.674:825): subj_apparmor=unconfined
+Nov  5 19:01:41 cis106vm kernel: [79625.904538] audit: type=1107 audit(1667689301.678:826): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.568" pid=5599 label="snap.firefox.firefox" peer_pid=45563 peer_label="unconfined"
+Nov  5 19:01:41 cis106vm kernel: [79625.904538]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:01:41 cis106vm kernel: [79625.904557] audit: type=1420 audit(1667689301.678:827): subj_apparmor=unconfined
+Nov  5 19:07:50 cis106vm kernel: [79995.017754] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:07:50 cis106vm kernel: [79995.017871] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:08:13 cis106vm kernel: [80018.098926] kauditd_printk_skb: 32 callbacks suppressed
+Nov  5 19:08:13 cis106vm kernel: [80018.098933] audit: type=1107 audit(1667689693.870:860): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.570" pid=5599 label="snap.firefox.firefox" peer_pid=45656 peer_label="unconfined"
+Nov  5 19:08:13 cis106vm kernel: [80018.098933]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:08:13 cis106vm kernel: [80018.098955] audit: type=1420 audit(1667689693.870:861): subj_apparmor=unconfined
+Nov  5 19:08:13 cis106vm kernel: [80018.100138] audit: type=1107 audit(1667689693.874:862): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.570" pid=5599 label="snap.firefox.firefox" peer_pid=45656 peer_label="unconfined"
+Nov  5 19:08:13 cis106vm kernel: [80018.100138]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:08:13 cis106vm kernel: [80018.100159] audit: type=1420 audit(1667689693.874:863): subj_apparmor=unconfined
+Nov  5 19:08:13 cis106vm kernel: [80018.103404] audit: type=1107 audit(1667689693.874:864): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.570" pid=5599 label="snap.firefox.firefox" peer_pid=45656 peer_label="unconfined"
+Nov  5 19:08:13 cis106vm kernel: [80018.103404]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:08:13 cis106vm kernel: [80018.103473] audit: type=1420 audit(1667689693.874:865): subj_apparmor=unconfined
+Nov  5 19:08:13 cis106vm kernel: [80018.107762] audit: type=1107 audit(1667689693.878:866): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.570" pid=5599 label="snap.firefox.firefox" peer_pid=45656 peer_label="unconfined"
+Nov  5 19:08:13 cis106vm kernel: [80018.107762]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:08:13 cis106vm kernel: [80018.107783] audit: type=1420 audit(1667689693.878:867): subj_apparmor=unconfined
+Nov  5 19:08:13 cis106vm kernel: [80018.109143] audit: type=1107 audit(1667689693.882:868): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.570" pid=5599 label="snap.firefox.firefox" peer_pid=45656 peer_label="unconfined"
+Nov  5 19:08:13 cis106vm kernel: [80018.109143]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:08:13 cis106vm kernel: [80018.109164] audit: type=1420 audit(1667689693.882:869): subj_apparmor=unconfined
+Nov  5 19:13:49 cis106vm kernel: [80353.722575] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:13:49 cis106vm kernel: [80353.722694] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:13:56 cis106vm kernel: [80361.143827] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:13:56 cis106vm kernel: [80361.143969] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:14:20 cis106vm kernel: [80384.285576] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:14:20 cis106vm kernel: [80384.285710] [drm:vmw_msg_ioctl [vmwgfx]] *ERROR* Failed to open channel.
+Nov  5 19:14:30 cis106vm kernel: [80394.567413] kauditd_printk_skb: 32 callbacks suppressed
+Nov  5 19:14:30 cis106vm kernel: [80394.567494] audit: type=1107 audit(1667690070.338:902): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.572" pid=5599 label="snap.firefox.firefox" peer_pid=45748 peer_label="unconfined"
+Nov  5 19:14:30 cis106vm kernel: [80394.567494]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:14:30 cis106vm kernel: [80394.567516] audit: type=1420 audit(1667690070.338:903): subj_apparmor=unconfined
+Nov  5 19:14:30 cis106vm kernel: [80394.570869] audit: type=1107 audit(1667690070.342:904): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.572" pid=5599 label="snap.firefox.firefox" peer_pid=45748 peer_label="unconfined"
+Nov  5 19:14:30 cis106vm kernel: [80394.570869]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:14:30 cis106vm kernel: [80394.570893] audit: type=1420 audit(1667690070.342:905): subj_apparmor=unconfined
+Nov  5 19:14:30 cis106vm kernel: [80394.581946] audit: type=1107 audit(1667690070.354:906): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.572" pid=5599 label="snap.firefox.firefox" peer_pid=45748 peer_label="unconfined"
+Nov  5 19:14:30 cis106vm kernel: [80394.581946]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:14:30 cis106vm kernel: [80394.581968] audit: type=1420 audit(1667690070.354:907): subj_apparmor=unconfined
+Nov  5 19:14:30 cis106vm kernel: [80394.582931] audit: type=1107 audit(1667690070.354:908): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.572" pid=5599 label="snap.firefox.firefox" peer_pid=45748 peer_label="unconfined"
+Nov  5 19:14:30 cis106vm kernel: [80394.582931]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:14:30 cis106vm kernel: [80394.582953] audit: type=1420 audit(1667690070.354:909): subj_apparmor=unconfined
+Nov  5 19:14:30 cis106vm kernel: [80394.585940] audit: type=1107 audit(1667690070.358:910): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.572" pid=5599 label="snap.firefox.firefox" peer_pid=45748 peer_label="unconfined"
+Nov  5 19:14:30 cis106vm kernel: [80394.585940]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:14:30 cis106vm kernel: [80394.585961] audit: type=1420 audit(1667690070.358:911): subj_apparmor=unconfined
+Nov  5 19:25:23 cis106vm kernel: [81047.500234] kauditd_printk_skb: 32 callbacks suppressed
+Nov  5 19:25:23 cis106vm kernel: [81047.500246] audit: type=1107 audit(1667690723.274:944): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.575" pid=5599 label="snap.firefox.firefox" peer_pid=46344 peer_label="unconfined"
+Nov  5 19:25:23 cis106vm kernel: [81047.500246]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:25:23 cis106vm kernel: [81047.500285] audit: type=1420 audit(1667690723.274:945): subj_apparmor=unconfined
+Nov  5 19:25:23 cis106vm kernel: [81047.513304] audit: type=1107 audit(1667690723.286:946): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.575" pid=5599 label="snap.firefox.firefox" peer_pid=46344 peer_label="unconfined"
+Nov  5 19:25:23 cis106vm kernel: [81047.513304]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:25:23 cis106vm kernel: [81047.513472] audit: type=1420 audit(1667690723.286:947): subj_apparmor=unconfined
+Nov  5 19:25:23 cis106vm kernel: [81047.516640] audit: type=1107 audit(1667690723.290:948): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.575" pid=5599 label="snap.firefox.firefox" peer_pid=46344 peer_label="unconfined"
+Nov  5 19:25:23 cis106vm kernel: [81047.516640]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:25:23 cis106vm kernel: [81047.516678] audit: type=1420 audit(1667690723.290:949): subj_apparmor=unconfined
+Nov  5 19:25:23 cis106vm kernel: [81047.525036] audit: type=1107 audit(1667690723.298:950): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.575" pid=5599 label="snap.firefox.firefox" peer_pid=46344 peer_label="unconfined"
+Nov  5 19:25:23 cis106vm kernel: [81047.525036]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:25:23 cis106vm kernel: [81047.525074] audit: type=1420 audit(1667690723.298:951): subj_apparmor=unconfined
+Nov  5 19:25:23 cis106vm kernel: [81047.525664] audit: type=1107 audit(1667690723.298:952): pid=596 uid=102 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/hostname1" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.575" pid=5599 label="snap.firefox.firefox" peer_pid=46344 peer_label="unconfined"
+Nov  5 19:25:23 cis106vm kernel: [81047.525664]  exe="/usr/bin/dbus-daemon" sauid=102 hostname=? addr=? terminal=?'
+Nov  5 19:25:23 cis106vm kernel: [81047.525690] audit: type=1420 audit(1667690723.298:953): subj_apparmor=unconfined
+Nov  5 19:36:01 cis106vm kernel: [81686.196430] kauditd_printk_skb: 36 callbacks suppressed
+Nov  5 19:36:01 cis106vm kernel: [81686.196437] audit: type=1400 audit(1667691361.970:990): apparmor="DENIED" operation="mknod" profile="snap.firefox.firefox" name="/home/djsalman/snap/firefox/1943/.local/share/recently-used.xbel.0FF8U1" pid=5599 comm="firefox" requested_mask="c" denied_mask="c" fsuid=1000 ouid=1000
+Nov  5 19:36:01 cis106vm kernel: [81686.204960] audit: type=1400 audit(1667691361.978:991): apparmor="DENIED" operation="chmod" profile="snap.firefox.firefox" name="/home/djsalman/snap/firefox/1943/.local/share/recently-used.xbel" pid=5599 comm="firefox" requested_mask="w" denied_mask="w" fsuid=1000 ouid=1000
